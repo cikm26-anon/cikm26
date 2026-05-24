@@ -1,0 +1,319 @@
+{
+  "@id": "_:n1",
+  "@type": "doi:feeb33ad3e4440682a4d",
+  "doi:feeb33ad3e4440682a4d#is_implemented_by": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/2f2865cd-2f35-4427-af6e-65efdcdf9b3c/download/tgvb86fl.r",
+  "doi:feeb33ad3e4440682a4d#has_part": {
+    "@id": "_:n2",
+    "@type": "doi:c6b413ba96ba477b5dca",
+    "doi:c6b413ba96ba477b5dca#has_output": {
+      "@id": "_:n3",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_expression": {
+        "@id": "_:n4",
+        "@type": "doi:1f20e66b17a6eb7c2baf",
+        "doi:1f20e66b17a6eb7c2baf#source_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/12cfe0ad-3488-4952-abc5-3c2be8ebe02c/download/ct2ily7t.png"
+      },
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n5",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 7,
+        "doi:31483624b5c80014b6c7#number_of_rows": 3
+      },
+      "doi:aff130c76e68ead3862e#has_part": [
+        {
+          "@id": "_:n6",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "cc_type"
+        },
+        {
+          "@id": "_:n7",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "emmean"
+        },
+        {
+          "@id": "_:n8",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "SE"
+        },
+        {
+          "@id": "_:n9",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "df"
+        },
+        {
+          "@id": "_:n10",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "lower.CL"
+        },
+        {
+          "@id": "_:n11",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "upper.CL"
+        },
+        {
+          "@id": "_:n12",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": ".group"
+        }
+      ],
+      "doi:aff130c76e68ead3862e#source_table": {
+        "@type": "doi:0424f6e7026fa4bc2c4a",
+        "tab_label": "Table",
+        "columns": [
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 1,
+            "col_titles": "cc_type",
+            "@id": "_:n13"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 2,
+            "col_titles": "emmean",
+            "@id": "_:n14"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 3,
+            "col_titles": "SE",
+            "@id": "_:n15"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 4,
+            "col_titles": "df",
+            "@id": "_:n16"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 5,
+            "col_titles": "lower.CL",
+            "@id": "_:n17"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 6,
+            "col_titles": "upper.CL",
+            "@id": "_:n18"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 7,
+            "col_titles": ".group",
+            "@id": "_:n19"
+          }
+        ],
+        "rows": [
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 1,
+            "row_titles": "1",
+            "@id": "_:n20",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n21",
+                "value": "Fallow",
+                "column": "_:n13"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n22",
+                "value": "2.64882786601448",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n23",
+                "value": "0.181792867241981",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n24",
+                "value": "4.15033057289861",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n25",
+                "value": "2.15121900582005",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n26",
+                "value": "3.1464367262089",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n27",
+                "value": " a ",
+                "column": "_:n19"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 2,
+            "row_titles": "2",
+            "@id": "_:n28",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n29",
+                "value": "Mix",
+                "column": "_:n13"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n30",
+                "value": "3.07794522106214",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n31",
+                "value": "0.164643335850091",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n32",
+                "value": "2.80800551591394",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n33",
+                "value": "2.53311444967896",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n34",
+                "value": "3.62277599244532",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n35",
+                "value": "  b",
+                "column": "_:n19"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 3,
+            "row_titles": "3",
+            "@id": "_:n36",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n37",
+                "value": "Single",
+                "column": "_:n13"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n38",
+                "value": "2.9659060180756",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n39",
+                "value": "0.155360286977523",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n40",
+                "value": "2.22869469042878",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n41",
+                "value": "2.35905981217794",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n42",
+                "value": "3.57275222397325",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n43",
+                "value": "  b",
+                "column": "_:n19"
+              }
+            ]
+          }
+        ],
+        "@id": "_:n44"
+      },
+      "doi:aff130c76e68ead3862e#label": "Estimated marginal means for cover crop (CC) type."
+    },
+    "doi:c6b413ba96ba477b5dca#has_input": {
+      "@id": "_:n45",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n46",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 39,
+        "doi:31483624b5c80014b6c7#number_of_rows": 378
+      },
+      "doi:aff130c76e68ead3862e#source_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/8d4b0f77-7608-44fe-82c0-b3961db5f8c3/download/mkhogda1.csv"
+    },
+    "doi:c6b413ba96ba477b5dca#level": {
+      "@id": "_:n47",
+      "@type": "doi:cceac5fb8acf5ade2bf5",
+      "doi:cceac5fb8acf5ade2bf5#label": "depth"
+    },
+    "doi:c6b413ba96ba477b5dca#targets": {
+      "@id": "_:n48",
+      "@type": "doi:cceac5fb8acf5ade2bf5",
+      "doi:cceac5fb8acf5ade2bf5#label": "MWD_cor"
+    },
+    "doi:c6b413ba96ba477b5dca#executes": {
+      "@id": "_:n49",
+      "@type": "doi:abef9f1c0d48853f3e51",
+      "doi:abef9f1c0d48853f3e51#has_support_url": "https://search.r-project.org/CRAN/refmans/lmerTest/html/lmer.html",
+      "doi:abef9f1c0d48853f3e51#is_implemented_by": "cld(emmeans(lmer(MWD_cor ~ cc_type + (1|depth), df.MWD), list(pairwise ~ cc_type)), Letters=letters, sort=FALSE)",
+      "doi:abef9f1c0d48853f3e51#part_of": {
+        "@id": "_:n50",
+        "@type": "doi:4b99260369df9110f9bd",
+        "doi:4b99260369df9110f9bd#has_support_url": "https://doi.org/10.32614/CRAN.package.lmerTest",
+        "doi:4b99260369df9110f9bd#part_of": {
+          "@id": "_:n51",
+          "@type": "doi:c981d125d1a564c9f573",
+          "doi:c981d125d1a564c9f573#has_support_url": "https://www.r-project.org",
+          "doi:c981d125d1a564c9f573#version_info": "4.3.2",
+          "doi:c981d125d1a564c9f573#label": "R"
+        },
+        "doi:4b99260369df9110f9bd#version_info": "3.1.3",
+        "doi:4b99260369df9110f9bd#label": "lmerTest"
+      },
+      "doi:abef9f1c0d48853f3e51#label": "lmer"
+    },
+    "doi:c6b413ba96ba477b5dca#label": "Overall effects of cover crops (CC) from a linear mixed model (LMM)."
+  },
+  "@context": {
+    "doi": "https://doi.org/21.T11969/",
+    "columns": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#columns",
+    "col_number": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#number",
+    "col_titles": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#titles",
+    "rows": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#rows",
+    "row_number": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#number",
+    "row_titles": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#titles",
+    "cells": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#cells",
+    "column": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#column",
+    "value": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#value",
+    "tab_label": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#label"
+  }
+}

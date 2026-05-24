@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "paper": "gentsch-2023-2",
+    "generated_by": "scripts/build_data_url_maps.py",
+    "generated_at": "2026-05-23T17:55:40.186102+00:00",
+    "strategy": "variable-name matching between cleaned/<paper>/code and cleaned/<paper>/claims/snippets_gold",
+    "counts": {
+      "raw_refs_total": 4,
+      "raw_unique_basenames": 2,
+      "verified": 1,
+      "suspect": 0,
+      "missing": 1
+    }
+  },
+  "files": {
+    "CATCHY_aggregate_stability_2020_block2.csv": {
+      "url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/8d4b0f77-7608-44fe-82c0-b3961db5f8c3/download/mkhogda1.csv",
+      "variables": [
+        "20"
+      ],
+      "raw_source_files": [
+        "Script_Aggregate_stability_SOIL.R"
+      ],
+      "raw_script_lines": [
+        80
+      ],
+      "source_snippets": [
+        "figure-2a-snippet.R",
+        "figure-2b-snippet.R",
+        "figure-3-snippet.R"
+      ],
+      "verified": true
+    }
+  },
+  "suspect": {},
+  "missing": {
+    "CATCHY_soil_data_2015_block2.csv": {
+      "variables": [
+        "15"
+      ],
+      "raw_source_files": [
+        "Script_Aggregate_stability_SOIL.R"
+      ],
+      "raw_script_lines": [
+        70
+      ],
+      "issue": "no URL found in snippets_gold for variable(s): 15",
+      "needs_manual_lookup": true
+    }
+  }
+}

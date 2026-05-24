@@ -1,0 +1,790 @@
+{
+  "@id": "_:n1",
+  "@type": "doi:feeb33ad3e4440682a4d",
+  "doi:feeb33ad3e4440682a4d#is_implemented_by": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/20b04cbd-0484-44ff-b2f3-2fee5466ee92/download/3wjwlawu.r",
+  "doi:feeb33ad3e4440682a4d#has_part": {
+    "@id": "_:n2",
+    "@type": "doi:437807f8d1a81b5138a3",
+    "doi:437807f8d1a81b5138a3#has_output": {
+      "@id": "_:n3",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_expression": {
+        "@id": "_:n4",
+        "@type": "doi:1f20e66b17a6eb7c2baf",
+        "doi:1f20e66b17a6eb7c2baf#source_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/e8960269-d3e5-47b7-b85e-977070abc0c6/download/vrogk6jv.png"
+      },
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n5",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 3,
+        "doi:31483624b5c80014b6c7#number_of_rows": 26
+      },
+      "doi:aff130c76e68ead3862e#has_part": [
+        {
+          "@id": "_:n6",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "from"
+        },
+        {
+          "@id": "_:n7",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "to"
+        },
+        {
+          "@id": "_:n8",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "est_sig_std"
+        }
+      ],
+      "doi:aff130c76e68ead3862e#source_table": {
+        "@type": "doi:0424f6e7026fa4bc2c4a",
+        "tab_label": "Table",
+        "columns": [
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 1,
+            "col_titles": "from",
+            "@id": "_:n9"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 2,
+            "col_titles": "to",
+            "@id": "_:n10"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 3,
+            "col_titles": "est_sig_std",
+            "@id": "_:n11"
+          }
+        ],
+        "rows": [
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 1,
+            "row_titles": "1",
+            "@id": "_:n12",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n13",
+                "value": "Aggreg. distrib.",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n14",
+                "value": "< 1 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n15",
+                "value": "0.75***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 2,
+            "row_titles": "2",
+            "@id": "_:n16",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n17",
+                "value": "Aggreg. distrib.",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n18",
+                "value": "< 4-2 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n19",
+                "value": "-0.52***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 3,
+            "row_titles": "3",
+            "@id": "_:n20",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n21",
+                "value": "Aggreg. distrib.",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n22",
+                "value": "< 8-4 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n23",
+                "value": "-0.73***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 4,
+            "row_titles": "4",
+            "@id": "_:n24",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n25",
+                "value": "Aggreg. distrib.",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n26",
+                "value": "< 16-8 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n27",
+                "value": "-0.35**",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 5,
+            "row_titles": "5",
+            "@id": "_:n28",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n29",
+                "value": "Soil_prop",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n30",
+                "value": "BD",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n31",
+                "value": "0.88***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 6,
+            "row_titles": "6",
+            "@id": "_:n32",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n33",
+                "value": "Soil_prop",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n34",
+                "value": "Clay",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n35",
+                "value": "-0.35**",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 7,
+            "row_titles": "7",
+            "@id": "_:n36",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n37",
+                "value": "Soil_prop",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n38",
+                "value": "OC",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n39",
+                "value": "-0.77***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 8,
+            "row_titles": "8",
+            "@id": "_:n40",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n41",
+                "value": "Cover crop type",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n42",
+                "value": "Aggreg. distrib.",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n43",
+                "value": "0.31*",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 9,
+            "row_titles": "9",
+            "@id": "_:n44",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n45",
+                "value": "Soil_prop",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n46",
+                "value": "Aggreg. distrib.",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n47",
+                "value": "-0.55***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 10,
+            "row_titles": "10",
+            "@id": "_:n48",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n49",
+                "value": "MWD",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n50",
+                "value": "Aggreg. distrib.",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n51",
+                "value": "-0.61***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 11,
+            "row_titles": "11",
+            "@id": "_:n52",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n53",
+                "value": "< 1 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n54",
+                "value": "< 8-4 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n55",
+                "value": "-0.63***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 12,
+            "row_titles": "12",
+            "@id": "_:n56",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n57",
+                "value": "< 1 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n58",
+                "value": "< 16-8 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n59",
+                "value": "-0.45***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 13,
+            "row_titles": "13",
+            "@id": "_:n60",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n61",
+                "value": "< 1 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n62",
+                "value": "< 4-2 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n63",
+                "value": "-0.64***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 14,
+            "row_titles": "14",
+            "@id": "_:n64",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n65",
+                "value": "< 4-2 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n66",
+                "value": "< 8-4 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n67",
+                "value": "0.19",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 15,
+            "row_titles": "15",
+            "@id": "_:n68",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n69",
+                "value": "< 1 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n70",
+                "value": "< 1 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n71",
+                "value": "0.43*",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 16,
+            "row_titles": "16",
+            "@id": "_:n72",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n73",
+                "value": "< 4-2 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n74",
+                "value": "< 4-2 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n75",
+                "value": "0.73***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 17,
+            "row_titles": "17",
+            "@id": "_:n76",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n77",
+                "value": "< 8-4 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n78",
+                "value": "< 8-4 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n79",
+                "value": "0.46*",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 18,
+            "row_titles": "18",
+            "@id": "_:n80",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n81",
+                "value": "< 16-8 mm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n82",
+                "value": "< 16-8 mm",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n83",
+                "value": "0.88***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 19,
+            "row_titles": "19",
+            "@id": "_:n84",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n85",
+                "value": "BD",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n86",
+                "value": "BD",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n87",
+                "value": "0.22",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 20,
+            "row_titles": "20",
+            "@id": "_:n88",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n89",
+                "value": "Clay",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n90",
+                "value": "Clay",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n91",
+                "value": "0.88***",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 21,
+            "row_titles": "21",
+            "@id": "_:n92",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n93",
+                "value": "OC",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n94",
+                "value": "OC",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n95",
+                "value": "0.41**",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 22,
+            "row_titles": "22",
+            "@id": "_:n96",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n97",
+                "value": "Aggreg. distrib.",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n98",
+                "value": "Aggreg. distrib.",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n99",
+                "value": "0.30",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 23,
+            "row_titles": "23",
+            "@id": "_:n100",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n101",
+                "value": "Soil_prop",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n102",
+                "value": "Soil_prop",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n103",
+                "value": "1.00",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 24,
+            "row_titles": "24",
+            "@id": "_:n104",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n105",
+                "value": "Cover crop type",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n106",
+                "value": "Cover crop type",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n107",
+                "value": "1.00",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 25,
+            "row_titles": "25",
+            "@id": "_:n108",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n109",
+                "value": "Cover crop type",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n110",
+                "value": "MWD",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n111",
+                "value": "0.16",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 26,
+            "row_titles": "26",
+            "@id": "_:n112",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n113",
+                "value": "MWD",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n114",
+                "value": "MWD",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n115",
+                "value": "1.00",
+                "column": "_:n11"
+              }
+            ]
+          }
+        ],
+        "@id": "_:n116"
+      },
+      "doi:aff130c76e68ead3862e#label": "Structural equation model (SEM) investigating the impact of parameters on aggregate organic carbon (OC) distribution."
+    },
+    "doi:437807f8d1a81b5138a3#has_input": {
+      "@id": "_:n117",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n118",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 39,
+        "doi:31483624b5c80014b6c7#number_of_rows": 378
+      },
+      "doi:aff130c76e68ead3862e#source_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/8d4b0f77-7608-44fe-82c0-b3961db5f8c3/download/mkhogda1.csv"
+    },
+    "doi:437807f8d1a81b5138a3#executes": {
+      "@id": "_:n119",
+      "@type": "doi:abef9f1c0d48853f3e51",
+      "doi:abef9f1c0d48853f3e51#is_implemented_by": "sem(\"# latent variable\nDistribution =~ OC1 + OC4_2 + OC8_4 + OC16_8\nSoil_prop =~ BD + Clay + OC\n# regression\nDistribution ~ cc_type.n + Soil_prop + MWD_cor\n# variances and covariances\nOC1 ~~ OC8_4\nOC1 ~~ OC16_8\nOC1 ~~ OC4_2\nOC8_4 ~~ OC4_2\", data = df.sem)",
+      "doi:abef9f1c0d48853f3e51#part_of": {
+        "@id": "_:n120",
+        "@type": "doi:4b99260369df9110f9bd",
+        "doi:4b99260369df9110f9bd#has_support_url": "https://doi.org/10.32614/CRAN.package.lavaan",
+        "doi:4b99260369df9110f9bd#part_of": {
+          "@id": "_:n121",
+          "@type": "doi:c981d125d1a564c9f573",
+          "doi:c981d125d1a564c9f573#has_support_url": "https://www.r-project.org",
+          "doi:c981d125d1a564c9f573#version_info": "4.3.2",
+          "doi:c981d125d1a564c9f573#label": "R"
+        },
+        "doi:4b99260369df9110f9bd#version_info": "0.6.19",
+        "doi:4b99260369df9110f9bd#label": "lavaan"
+      },
+      "doi:abef9f1c0d48853f3e51#label": "sem"
+    },
+    "doi:437807f8d1a81b5138a3#label": "Structural equation model (SEM) investigating the impact of parameters on aggregate organic carbon (OC) distribution."
+  },
+  "@context": {
+    "doi": "https://doi.org/21.T11969/",
+    "columns": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#columns",
+    "col_number": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#number",
+    "col_titles": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#titles",
+    "rows": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#rows",
+    "row_number": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#number",
+    "row_titles": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#titles",
+    "cells": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#cells",
+    "column": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#column",
+    "value": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#value",
+    "tab_label": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#label"
+  }
+}

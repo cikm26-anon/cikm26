@@ -1,0 +1,3440 @@
+{
+  "@id": "_:n1",
+  "@type": "doi:feeb33ad3e4440682a4d",
+  "doi:feeb33ad3e4440682a4d#is_implemented_by": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/fbf1d220-fbe0-4410-a4ec-c9ca2aab0ac1/download/7z4b6qdt.r",
+  "doi:feeb33ad3e4440682a4d#has_part": {
+    "@id": "_:n2",
+    "@type": "doi:b9335ce2c99ed87735a6",
+    "doi:b9335ce2c99ed87735a6#has_output": {
+      "@id": "_:n3",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_expression": {
+        "@id": "_:n4",
+        "@type": "doi:1f20e66b17a6eb7c2baf",
+        "doi:1f20e66b17a6eb7c2baf#source_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/61e0a2ba-c122-4a20-bb5d-da121255902a/download/f7re83cz.png"
+      },
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n5",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 3,
+        "doi:31483624b5c80014b6c7#number_of_rows": 63
+      },
+      "doi:aff130c76e68ead3862e#has_part": [
+        {
+          "@id": "_:n6",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "depth"
+        },
+        {
+          "@id": "_:n7",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "p.value"
+        },
+        {
+          "@id": "_:n8",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "compnames"
+        }
+      ],
+      "doi:aff130c76e68ead3862e#source_table": {
+        "@type": "doi:0424f6e7026fa4bc2c4a",
+        "tab_label": "Table",
+        "columns": [
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 1,
+            "col_titles": "depth",
+            "@id": "_:n9"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 2,
+            "col_titles": "p.value",
+            "@id": "_:n10"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 3,
+            "col_titles": "compnames",
+            "@id": "_:n11"
+          }
+        ],
+        "rows": [
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 1,
+            "row_titles": "1",
+            "@id": "_:n12",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n13",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n14",
+                "value": "0.879650042344882",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n15",
+                "value": "Mustard-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 2,
+            "row_titles": "2",
+            "@id": "_:n16",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n17",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n18",
+                "value": "0.0172592311636673",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n19",
+                "value": "Clover-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 3,
+            "row_titles": "3",
+            "@id": "_:n20",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n21",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n22",
+                "value": "0.794939063373334",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n23",
+                "value": "Oat-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 4,
+            "row_titles": "4",
+            "@id": "_:n24",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n25",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n26",
+                "value": "0.776873273257666",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n27",
+                "value": "Phacelia-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 5,
+            "row_titles": "5",
+            "@id": "_:n28",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n29",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n30",
+                "value": "0.455405833108351",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n31",
+                "value": "Mix4-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 6,
+            "row_titles": "6",
+            "@id": "_:n32",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n33",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n34",
+                "value": "0.123825117831435",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n35",
+                "value": "Mix12-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 7,
+            "row_titles": "7",
+            "@id": "_:n36",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n37",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n38",
+                "value": "0.0267675061439056",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n39",
+                "value": "Clover-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 8,
+            "row_titles": "8",
+            "@id": "_:n40",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n41",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n42",
+                "value": "0.960666202903511",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n43",
+                "value": "Oat-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 9,
+            "row_titles": "9",
+            "@id": "_:n44",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n45",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n46",
+                "value": "0.837824560998941",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n47",
+                "value": "Phacelia-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 10,
+            "row_titles": "10",
+            "@id": "_:n48",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n49",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n50",
+                "value": "0.522837786844853",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n51",
+                "value": "Mix4-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 11,
+            "row_titles": "11",
+            "@id": "_:n52",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n53",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n54",
+                "value": "0.139808043820156",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n55",
+                "value": "Mix12-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 12,
+            "row_titles": "12",
+            "@id": "_:n56",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n57",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n58",
+                "value": "0.00537634031232344",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n59",
+                "value": "Oat-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 13,
+            "row_titles": "13",
+            "@id": "_:n60",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n61",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n62",
+                "value": "0.229390475833488",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n63",
+                "value": "Phacelia-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 14,
+            "row_titles": "14",
+            "@id": "_:n64",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n65",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n66",
+                "value": "0.171824086394382",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n67",
+                "value": "Mix4-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 15,
+            "row_titles": "15",
+            "@id": "_:n68",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n69",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n70",
+                "value": "0.700173146415914",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n71",
+                "value": "Mix12-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 16,
+            "row_titles": "16",
+            "@id": "_:n72",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n73",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n74",
+                "value": "0.846327570783024",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n75",
+                "value": "Phacelia-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 17,
+            "row_titles": "17",
+            "@id": "_:n76",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n77",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n78",
+                "value": "0.506645609742002",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n79",
+                "value": "Mix4-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 18,
+            "row_titles": "18",
+            "@id": "_:n80",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n81",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n82",
+                "value": "0.153085594159409",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n83",
+                "value": "Mix12-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 19,
+            "row_titles": "19",
+            "@id": "_:n84",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n85",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n86",
+                "value": "0.803729797934419",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n87",
+                "value": "Mix4-Phacelia",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 20,
+            "row_titles": "20",
+            "@id": "_:n88",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n89",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n90",
+                "value": "0.33412080235049",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n91",
+                "value": "Mix12-Phacelia",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 21,
+            "row_titles": "21",
+            "@id": "_:n92",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n93",
+                "value": "0-10 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n94",
+                "value": "0.348170042529221",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n95",
+                "value": "Mix12-Mix4",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 22,
+            "row_titles": "22",
+            "@id": "_:n96",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n97",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n98",
+                "value": "0.0981206729583386",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n99",
+                "value": "Mustard-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 23,
+            "row_titles": "23",
+            "@id": "_:n100",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n101",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n102",
+                "value": "0.192385216107509",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n103",
+                "value": "Clover-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 24,
+            "row_titles": "24",
+            "@id": "_:n104",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n105",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n106",
+                "value": "0.155091916439614",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n107",
+                "value": "Oat-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 25,
+            "row_titles": "25",
+            "@id": "_:n108",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n109",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n110",
+                "value": "0.323735488640599",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n111",
+                "value": "Phacelia-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 26,
+            "row_titles": "26",
+            "@id": "_:n112",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n113",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n114",
+                "value": "0.187877889945394",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n115",
+                "value": "Mix4-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 27,
+            "row_titles": "27",
+            "@id": "_:n116",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n117",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n118",
+                "value": "0.049082754401629",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n119",
+                "value": "Mix12-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 28,
+            "row_titles": "28",
+            "@id": "_:n120",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n121",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n122",
+                "value": "0.356121250079506",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n123",
+                "value": "Clover-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 29,
+            "row_titles": "29",
+            "@id": "_:n124",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n125",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n126",
+                "value": "0.527752409166453",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n127",
+                "value": "Oat-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 30,
+            "row_titles": "30",
+            "@id": "_:n128",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n129",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n130",
+                "value": "0.287464774666107",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n131",
+                "value": "Phacelia-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 31,
+            "row_titles": "31",
+            "@id": "_:n132",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n133",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n134",
+                "value": "0.363841692158256",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n135",
+                "value": "Mix4-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 32,
+            "row_titles": "32",
+            "@id": "_:n136",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n137",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n138",
+                "value": "0.797166517601718",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n139",
+                "value": "Mix12-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 33,
+            "row_titles": "33",
+            "@id": "_:n140",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n141",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n142",
+                "value": "0.6996473240334",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n143",
+                "value": "Oat-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 34,
+            "row_titles": "34",
+            "@id": "_:n144",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n145",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n146",
+                "value": "0.678252879161545",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n147",
+                "value": "Phacelia-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 35,
+            "row_titles": "35",
+            "@id": "_:n148",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n149",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n150",
+                "value": "0.996805452246254",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n151",
+                "value": "Mix4-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 36,
+            "row_titles": "36",
+            "@id": "_:n152",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n153",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n154",
+                "value": "0.0637619719727102",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n155",
+                "value": "Mix12-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 37,
+            "row_titles": "37",
+            "@id": "_:n156",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n157",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n158",
+                "value": "0.545375295883991",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n159",
+                "value": "Phacelia-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 38,
+            "row_titles": "38",
+            "@id": "_:n160",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n161",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n162",
+                "value": "0.726605905620791",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n163",
+                "value": "Mix4-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 39,
+            "row_titles": "39",
+            "@id": "_:n164",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n165",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n166",
+                "value": "0.254742305982683",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n167",
+                "value": "Mix12-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 40,
+            "row_titles": "40",
+            "@id": "_:n168",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n169",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n170",
+                "value": "0.706980083443863",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n171",
+                "value": "Mix4-Phacelia",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 41,
+            "row_titles": "41",
+            "@id": "_:n172",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n173",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n174",
+                "value": "0.11902451442477",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n175",
+                "value": "Mix12-Phacelia",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 42,
+            "row_titles": "42",
+            "@id": "_:n176",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n177",
+                "value": "20-30 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n178",
+                "value": "0.0797411514938185",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n179",
+                "value": "Mix12-Mix4",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 43,
+            "row_titles": "43",
+            "@id": "_:n180",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n181",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n182",
+                "value": "0.68592435003716",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n183",
+                "value": "Mustard-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 44,
+            "row_titles": "44",
+            "@id": "_:n184",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n185",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n186",
+                "value": "0.871298278886324",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n187",
+                "value": "Clover-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 45,
+            "row_titles": "45",
+            "@id": "_:n188",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n189",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n190",
+                "value": "0.448154386950218",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n191",
+                "value": "Oat-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 46,
+            "row_titles": "46",
+            "@id": "_:n192",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n193",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n194",
+                "value": "0.0168571295231677",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n195",
+                "value": "Phacelia-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 47,
+            "row_titles": "47",
+            "@id": "_:n196",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n197",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n198",
+                "value": "0.0368659803036594",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n199",
+                "value": "Mix4-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 48,
+            "row_titles": "48",
+            "@id": "_:n200",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n201",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n202",
+                "value": "0.609132338164734",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n203",
+                "value": "Mix12-Fallow",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 49,
+            "row_titles": "49",
+            "@id": "_:n204",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n205",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n206",
+                "value": "0.925845587121024",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n207",
+                "value": "Clover-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 50,
+            "row_titles": "50",
+            "@id": "_:n208",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n209",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n210",
+                "value": "0.734611756512157",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n211",
+                "value": "Oat-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 51,
+            "row_titles": "51",
+            "@id": "_:n212",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n213",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n214",
+                "value": "0.154190702425697",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n215",
+                "value": "Phacelia-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 52,
+            "row_titles": "52",
+            "@id": "_:n216",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n217",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n218",
+                "value": "0.278299816396278",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n219",
+                "value": "Mix4-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 53,
+            "row_titles": "53",
+            "@id": "_:n220",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n221",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n222",
+                "value": "0.802629945777724",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n223",
+                "value": "Mix12-Mustard",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 54,
+            "row_titles": "54",
+            "@id": "_:n224",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n225",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n226",
+                "value": "0.727762350311781",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n227",
+                "value": "Oat-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 55,
+            "row_titles": "55",
+            "@id": "_:n228",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n229",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n230",
+                "value": "0.277136774405992",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n231",
+                "value": "Phacelia-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 56,
+            "row_titles": "56",
+            "@id": "_:n232",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n233",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n234",
+                "value": "0.404825159641608",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n235",
+                "value": "Mix4-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 57,
+            "row_titles": "57",
+            "@id": "_:n236",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n237",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n238",
+                "value": "0.771549873246754",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n239",
+                "value": "Mix12-Clover",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 58,
+            "row_titles": "58",
+            "@id": "_:n240",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n241",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n242",
+                "value": "0.273643679763717",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n243",
+                "value": "Phacelia-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 59,
+            "row_titles": "59",
+            "@id": "_:n244",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n245",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n246",
+                "value": "0.483483770052783",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n247",
+                "value": "Mix4-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 60,
+            "row_titles": "60",
+            "@id": "_:n248",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n249",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n250",
+                "value": "0.997401990691916",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n251",
+                "value": "Mix12-Oat",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 61,
+            "row_titles": "61",
+            "@id": "_:n252",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n253",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n254",
+                "value": "0.408929769501498",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n255",
+                "value": "Mix4-Phacelia",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 62,
+            "row_titles": "62",
+            "@id": "_:n256",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n257",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n258",
+                "value": "0.439384060249824",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n259",
+                "value": "Mix12-Phacelia",
+                "column": "_:n11"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 63,
+            "row_titles": "63",
+            "@id": "_:n260",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n261",
+                "value": "30-40 cm",
+                "column": "_:n9"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n262",
+                "value": "0.629730741332727",
+                "column": "_:n10"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n263",
+                "value": "Mix12-Mix4",
+                "column": "_:n11"
+              }
+            ]
+          }
+        ],
+        "@id": "_:n264"
+      },
+      "doi:aff130c76e68ead3862e#label": "Pairwise t-test p-values for cover crop (CC) variants at three soil depths."
+    },
+    "doi:b9335ce2c99ed87735a6#has_input": {
+      "@id": "_:n265",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n266",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 3,
+        "doi:31483624b5c80014b6c7#number_of_rows": 63
+      },
+      "doi:aff130c76e68ead3862e#has_part": [
+        {
+          "@id": "_:n267",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "depth"
+        },
+        {
+          "@id": "_:n268",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "cc_variant"
+        },
+        {
+          "@id": "_:n269",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "MWD_cor"
+        }
+      ],
+      "doi:aff130c76e68ead3862e#source_table": {
+        "@type": "doi:0424f6e7026fa4bc2c4a",
+        "tab_label": "Table",
+        "columns": [
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 1,
+            "col_titles": "depth",
+            "@id": "_:n270"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 2,
+            "col_titles": "cc_variant",
+            "@id": "_:n271"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 3,
+            "col_titles": "MWD_cor",
+            "@id": "_:n272"
+          }
+        ],
+        "rows": [
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 1,
+            "row_titles": "1",
+            "@id": "_:n273",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n274",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n275",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n276",
+                "value": "2.4117698572087",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 2,
+            "row_titles": "2",
+            "@id": "_:n277",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n278",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n279",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n280",
+                "value": "2.97852440563816",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 3,
+            "row_titles": "3",
+            "@id": "_:n281",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n282",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n283",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n284",
+                "value": "2.6990908194905",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 4,
+            "row_titles": "4",
+            "@id": "_:n285",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n286",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n287",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n288",
+                "value": "2.59526846439939",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 5,
+            "row_titles": "5",
+            "@id": "_:n289",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n290",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n291",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n292",
+                "value": "2.02125733131812",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 6,
+            "row_titles": "6",
+            "@id": "_:n293",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n294",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n295",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n296",
+                "value": "3.04138665652634",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 7,
+            "row_titles": "7",
+            "@id": "_:n297",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n298",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n299",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n300",
+                "value": "2.83557991766878",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 8,
+            "row_titles": "8",
+            "@id": "_:n301",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n302",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n303",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n304",
+                "value": "2.82405961381794",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 9,
+            "row_titles": "9",
+            "@id": "_:n305",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n306",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n307",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n308",
+                "value": "3.29515608833683",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 10,
+            "row_titles": "10",
+            "@id": "_:n309",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n310",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n311",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n312",
+                "value": "2.89825041471296",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 11,
+            "row_titles": "11",
+            "@id": "_:n313",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n314",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n315",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n316",
+                "value": "3.58601478557923",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 12,
+            "row_titles": "12",
+            "@id": "_:n317",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n318",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n319",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n320",
+                "value": "2.47780054661268",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 13,
+            "row_titles": "13",
+            "@id": "_:n321",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n322",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n323",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n324",
+                "value": "2.11198331659708",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 14,
+            "row_titles": "14",
+            "@id": "_:n325",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n326",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n327",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n328",
+                "value": "3.37424257224112",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 15,
+            "row_titles": "15",
+            "@id": "_:n329",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n330",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n331",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n332",
+                "value": "3.5449461506838",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 16,
+            "row_titles": "16",
+            "@id": "_:n333",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n334",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n335",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n336",
+                "value": "2.86810061888304",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 17,
+            "row_titles": "17",
+            "@id": "_:n337",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n338",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n339",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n340",
+                "value": "3.09307630851078",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 18,
+            "row_titles": "18",
+            "@id": "_:n341",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n342",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n343",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n344",
+                "value": "3.15543798698987",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 19,
+            "row_titles": "19",
+            "@id": "_:n345",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n346",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n347",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n348",
+                "value": "2.51156241189121",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 20,
+            "row_titles": "20",
+            "@id": "_:n349",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n350",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n351",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n352",
+                "value": "2.71594904654522",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 21,
+            "row_titles": "21",
+            "@id": "_:n353",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n354",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n355",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n356",
+                "value": "2.69651811574265",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 22,
+            "row_titles": "22",
+            "@id": "_:n357",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n358",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n359",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n360",
+                "value": "2.47519952333174",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 23,
+            "row_titles": "23",
+            "@id": "_:n361",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n362",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n363",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n364",
+                "value": "3.34778818200468",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 24,
+            "row_titles": "24",
+            "@id": "_:n365",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n366",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n367",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n368",
+                "value": "3.292637643105",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 25,
+            "row_titles": "25",
+            "@id": "_:n369",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n370",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n371",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n372",
+                "value": "3.04490482940964",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 26,
+            "row_titles": "26",
+            "@id": "_:n373",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n374",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n375",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n376",
+                "value": "3.10180068420545",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 27,
+            "row_titles": "27",
+            "@id": "_:n377",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n378",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n379",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n380",
+                "value": "3.36399565102845",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 28,
+            "row_titles": "28",
+            "@id": "_:n381",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n382",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n383",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n384",
+                "value": "2.86098606597695",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 29,
+            "row_titles": "29",
+            "@id": "_:n385",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n386",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n387",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n388",
+                "value": "2.87654588978336",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 30,
+            "row_titles": "30",
+            "@id": "_:n389",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n390",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n391",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n392",
+                "value": "3.45138512875342",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 31,
+            "row_titles": "31",
+            "@id": "_:n393",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n394",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n395",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n396",
+                "value": "2.55663609641418",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 32,
+            "row_titles": "32",
+            "@id": "_:n397",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n398",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n399",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n400",
+                "value": "2.77564055259667",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 33,
+            "row_titles": "33",
+            "@id": "_:n401",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n402",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n403",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n404",
+                "value": "2.84060408645692",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 34,
+            "row_titles": "34",
+            "@id": "_:n405",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n406",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n407",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n408",
+                "value": "2.70411281001143",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 35,
+            "row_titles": "35",
+            "@id": "_:n409",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n410",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n411",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n412",
+                "value": "3.27268651492419",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 36,
+            "row_titles": "36",
+            "@id": "_:n413",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n414",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n415",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n416",
+                "value": "3.35089624796191",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 37,
+            "row_titles": "37",
+            "@id": "_:n417",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n418",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n419",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n420",
+                "value": "2.33235252285043",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 38,
+            "row_titles": "38",
+            "@id": "_:n421",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n422",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n423",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n424",
+                "value": "3.02838530611397",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 39,
+            "row_titles": "39",
+            "@id": "_:n425",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n426",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n427",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n428",
+                "value": "3.11377944476505",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 40,
+            "row_titles": "40",
+            "@id": "_:n429",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n430",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n431",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n432",
+                "value": "3.15461422779432",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 41,
+            "row_titles": "41",
+            "@id": "_:n433",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n434",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n435",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n436",
+                "value": "3.68707289924201",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 42,
+            "row_titles": "42",
+            "@id": "_:n437",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n438",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n439",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n440",
+                "value": "3.49790493594287",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 43,
+            "row_titles": "43",
+            "@id": "_:n441",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n442",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n443",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n444",
+                "value": "2.75185462201729",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 44,
+            "row_titles": "44",
+            "@id": "_:n445",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n446",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n447",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n448",
+                "value": "3.31432424011399",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 45,
+            "row_titles": "45",
+            "@id": "_:n449",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n450",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n451",
+                "value": "Mix4",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n452",
+                "value": "3.4382479259257",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 46,
+            "row_titles": "46",
+            "@id": "_:n453",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n454",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n455",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n456",
+                "value": "2.58743766609913",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 47,
+            "row_titles": "47",
+            "@id": "_:n457",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n458",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n459",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n460",
+                "value": "3.25253960375279",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 48,
+            "row_titles": "48",
+            "@id": "_:n461",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n462",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n463",
+                "value": "Mix12",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n464",
+                "value": "3.32763921777259",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 49,
+            "row_titles": "49",
+            "@id": "_:n465",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n466",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n467",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n468",
+                "value": "2.72344499756372",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 50,
+            "row_titles": "50",
+            "@id": "_:n469",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n470",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n471",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n472",
+                "value": "2.58247307373835",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 51,
+            "row_titles": "51",
+            "@id": "_:n473",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n474",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n475",
+                "value": "Phacelia",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n476",
+                "value": "3.22197436743277",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 52,
+            "row_titles": "52",
+            "@id": "_:n477",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n478",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n479",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n480",
+                "value": "2.95115535036173",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 53,
+            "row_titles": "53",
+            "@id": "_:n481",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n482",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n483",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n484",
+                "value": "2.9738659268014",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 54,
+            "row_titles": "54",
+            "@id": "_:n485",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n486",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n487",
+                "value": "Clover",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n488",
+                "value": "2.37804646645616",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 55,
+            "row_titles": "55",
+            "@id": "_:n489",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n490",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n491",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n492",
+                "value": "2.55734358725335",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 56,
+            "row_titles": "56",
+            "@id": "_:n493",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n494",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n495",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n496",
+                "value": "3.40142091570241",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 57,
+            "row_titles": "57",
+            "@id": "_:n497",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n498",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n499",
+                "value": "Oat",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n500",
+                "value": "3.31812890239619",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 58,
+            "row_titles": "58",
+            "@id": "_:n501",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n502",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n503",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n504",
+                "value": "2.41167159829427",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 59,
+            "row_titles": "59",
+            "@id": "_:n505",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n506",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n507",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n508",
+                "value": "3.99477840759301",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 60,
+            "row_titles": "60",
+            "@id": "_:n509",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n510",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n511",
+                "value": "Mustard",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n512",
+                "value": "2.95417227620989",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 61,
+            "row_titles": "61",
+            "@id": "_:n513",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n514",
+                "value": "0-10 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n515",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n516",
+                "value": "2.31181469418948",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 62,
+            "row_titles": "62",
+            "@id": "_:n517",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n518",
+                "value": "20-30 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n519",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n520",
+                "value": "2.84869987263582",
+                "column": "_:n272"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 63,
+            "row_titles": "63",
+            "@id": "_:n521",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n522",
+                "value": "30-40 cm",
+                "column": "_:n270"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n523",
+                "value": "Fallow",
+                "column": "_:n271"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n524",
+                "value": "2.84814303959339",
+                "column": "_:n272"
+              }
+            ]
+          }
+        ],
+        "@id": "_:n525"
+      },
+      "doi:aff130c76e68ead3862e#label": "Difference of mean weight diameter (MWD) between the dry and wet sieving method."
+    },
+    "doi:b9335ce2c99ed87735a6#targets": {
+      "@id": "_:n526",
+      "@type": "doi:cceac5fb8acf5ade2bf5",
+      "doi:cceac5fb8acf5ade2bf5#label": "MWD_cor"
+    },
+    "doi:b9335ce2c99ed87735a6#executes": {
+      "@id": "_:n527",
+      "@type": "doi:abef9f1c0d48853f3e51",
+      "doi:abef9f1c0d48853f3e51#has_support_url": "https://search.r-project.org/CRAN/refmans/pairwiseCI/html/pairwiseTest.html",
+      "doi:abef9f1c0d48853f3e51#is_implemented_by": "pairwiseTest(MWD_cor ~ cc_variant, data = x)",
+      "doi:abef9f1c0d48853f3e51#part_of": {
+        "@id": "_:n528",
+        "@type": "doi:4b99260369df9110f9bd",
+        "doi:4b99260369df9110f9bd#has_support_url": "https://doi.org/10.32614/CRAN.package.pairwiseCI",
+        "doi:4b99260369df9110f9bd#part_of": {
+          "@id": "_:n529",
+          "@type": "doi:c981d125d1a564c9f573",
+          "doi:c981d125d1a564c9f573#has_support_url": "https://www.r-project.org",
+          "doi:c981d125d1a564c9f573#version_info": "4.3.2",
+          "doi:c981d125d1a564c9f573#label": "R"
+        },
+        "doi:4b99260369df9110f9bd#version_info": "0.1.27",
+        "doi:4b99260369df9110f9bd#label": "pairwiseCI"
+      },
+      "doi:abef9f1c0d48853f3e51#label": "pairwiseTest"
+    },
+    "doi:b9335ce2c99ed87735a6#label": "Pairwise t-test with mean weight diameter (MWD) response and cover crop (CC) variant predictor."
+  },
+  "@context": {
+    "doi": "https://doi.org/21.T11969/",
+    "columns": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#columns",
+    "col_number": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#number",
+    "col_titles": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#titles",
+    "rows": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#rows",
+    "row_number": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#number",
+    "row_titles": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#titles",
+    "cells": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#cells",
+    "column": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#column",
+    "value": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#value",
+    "tab_label": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#label"
+  }
+}

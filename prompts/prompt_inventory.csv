@@ -1,0 +1,13 @@
+prompt_id,stage,role,source_path,artifact_path,used_in,output_contract,notes
+A.LEFT,Stage A,Anchor extractor (paragraph-retrieved),src/repro_agent/stages/stage_a_left.py:ANCHOR_EXTRACTOR_SYSTEM_PROMPT,prompts/stage_a_left_claim_extractor.md,main,report_claims JSON,Paragraph retrieval + 7 anchor types + 7 semantic roles per claim
+A.RIGHT,Stage A,Code-unit miner,src/repro_agent/stages/stage_a_claims.py:mine_code_units,prompts/stage_a_right_code_unit_miner.md,main,report_code_units JSON,Single tool-use call over paper source files; emits integer line ranges + emit type/dependencies/summary from computational sinks
+A.FUSE,Stage A,Scoring + Hungarian + LLM judge,src/repro_agent/stages/stage_a_fuse.py:JUDGE_SYSTEM_PROMPT,prompts/stage_a_fuse_score_hungarian_judge.md,main,report_fusion JSON,Deterministic core (scipy Hungarian) + LLM judge over proposals
+A.FUSE-signals,Stage A,Evidence-signal aligner,src/repro_agent/stages/stage_a_fuse.py:JUDGE_SYSTEM_PROMPT,prompts/ablations/stage_a_fuse_signals.md,ablation,report_fusion JSON (schema-additive),Opt-in judge_variant=signals; reports per-entry matched/missing evidence signals as additive optional fields
+A.JUDGE,Stage A eval,Alignment evaluator vs gold,src/repro_agent/stages/stage_a_judge.py:SYSTEM_PROMPT,prompts/stage_a_judge_alignment.md,eval,report_alignment JSON,Diagnostic against gold; not in production pipeline
+B,Stage B,Evidence slicer,src/repro_agent/stages/stage_b_slicing.py:SYSTEM_BASE,prompts/stage_b_evidence_slicer.md,main,report_evidence JSON,Per-claim slice with verdict
+C,Stage C,Claim-type router,src/repro_agent/stages/stage_c_classify.py:SYSTEM_PROMPT,prompts/stage_c_claim_type_router.md,main,report_classification JSON,8-handle taxonomy (paper Table 1)
+C-RAG,Stage C,RAG classifier,src/repro_agent/stages/stage_c_rag_classifier.py,prompts/ablations/stage_c_rag_classifier.md,ablation,report_classification JSON,Earlier RAG variant
+C-RAG-v4,Stage C,RAG classifier v4,src/repro_agent/stages/stage_c_rag_classifier.py,prompts/ablations/stage_c_rag_v4_ablation.md,ablation,report_classification JSON,Current production RAG prompt
+D,Stage D,Structured-record generator,src/repro_agent/stages/stage_d_dtreg.py:SYSTEM_PROMPT_BASE,prompts/stage_d_record_generator.md,main,report_dtreg_code JSON+code,R + Python skeletons; language auto-detected from evidence
+D-RAG,Stage D,RAG-augmented record generator,src/repro_agent/retrieval/stage_d_prompt_builder.py,prompts/ablations/stage_d_rag_render.md,ablation,report_dtreg_code JSON+code,Stage D with retrieved few-shot examples
+SEF,SEF refinement,Execution-guided refiner (3 variants),scripts/run_sef_slice.py:SYSTEM_PROMPT_TEMPLATE,prompts/sef_execution_guided_refiner.md,ablation,selected_ranges JSON,Variants SEF-Full / SEF-Minus / SEF-Retry

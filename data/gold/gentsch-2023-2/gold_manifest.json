@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "paper_id": "gentsch-2023-2",
+  "created_at": "2026-05-04T18:09:23Z",
+  "created_by_script": "dataset_builder/scripts/build_gold.py",
+  "git_commit": "e38bf3e",
+  "input_paths": {
+    "raw_jsonld_dir": "D:/dataset_dtreg_v02/raw/gentsch-2023-2/gentsch-2023-2",
+    "claims_file": "D:/dataset_dtreg_v02/cleaned/gentsch-2023-2/claims/claims.json",
+    "gold_jsonld_mapping": "D:/dataset_dtreg_v02/maps/gold_jsonld_mapping.json"
+  },
+  "input_hashes": {
+    "maps/gold_jsonld_mapping.json": "6c826ddeb75bf1833b54fc36aadf7f85fe8d200a261cf9ea5236662f42f26fad",
+    "cleaned/gentsch-2023-2/claims/claims.json": "6f7ce818baf652700a85437f9dcbda8925f7cd938e82c982c84a0420e88bcd7f"
+  },
+  "output_paths": {
+    "claims_gold": "gold/gentsch-2023-2/claims_gold.json",
+    "snippets_gold_dir": "gold/gentsch-2023-2/snippets_gold/",
+    "jsonld_gold_dir": "gold/gentsch-2023-2/jsonld_gold/",
+    "dtreg_code_gold_dir": "gold/gentsch-2023-2/dtreg_code_gold/",
+    "handles_gold": "gold/gentsch-2023-2/handles_gold.json"
+  },
+  "output_hashes": {
+    "gold/gentsch-2023-2/claims_gold.json": "a68e78d8ff7f1cf9769d80c4dbfa266661fafe44e9e95b8c95ea0363184416bd",
+    "gold/gentsch-2023-2/handles_gold.json": "e3bfcb2d7e67c25fe314f9ace61aac600c733261a47035ddec2d94efa2d6485a"
+  },
+  "gold_coverage": {
+    "claims_total": 6,
+    "claims_with_gold": 6,
+    "claims_missing_gold": [],
+    "handles_distribution": {
+      "5b66cb584b974b186f37": 1,
+      "b9335ce2c99ed87735a6": 1,
+      "c6b413ba96ba477b5dca": 3,
+      "437807f8d1a81b5138a3": 1
+    }
+  },
+  "status": "completed",
+  "warnings": [],
+  "errors": []
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "paper_id": "gentsch-2023-2",
+  "created_at": "2026-05-11T09:45:57Z",
+  "created_by_script": "dataset_builder/scripts/build_cleaned.py",
+  "git_commit": "a3815d6",
+  "submission_layout": "subdirs",
+  "input_paths": {
+    "reborn_repo": "D:/dataset_dtreg_v02/raw/gentsch-2023-2/gentsch-2023-2",
+    "zenodo_zip": null
+  },
+  "input_hashes": {
+    "raw/gentsch-2023-2/gentsch-2023-2/utils/metadata.json": "364df7e082b663ccbfa4ccd488cfbe7f5b47aa6f051afe639e9d83bcce41c871",
+    "raw/gentsch-2023-2/gentsch-2023-2/reproduced_units/json_file_name_statement_label.json": "bfabeb7c5d43c9927803a8101f6c29f2827ba4bd62a87890ea07e8a02e777cae",
+    "raw/gentsch-2023-2/gentsch-2023-2/submission/article/paper.txt": "6bcf97787eae1df8f5ab4b6a50c5393d19a5a25f5f84594ce91b7b951feeaf30"
+  },
+  "output_paths": {
+    "paper_text": "cleaned/gentsch-2023-2/paper.txt",
+    "article_metadata": "cleaned/gentsch-2023-2/article_metadata.json",
+    "claims": "cleaned/gentsch-2023-2/claims/claims.json",
+    "code_dir": "cleaned/gentsch-2023-2/code",
+    "data_dir": "cleaned/gentsch-2023-2/data",
+    "code_inventory": "cleaned/gentsch-2023-2/code_inventory.json",
+    "data_inventory": "cleaned/gentsch-2023-2/data_inventory.json"
+  },
+  "output_hashes": {
+    "cleaned/gentsch-2023-2/paper.txt": "6bcf97787eae1df8f5ab4b6a50c5393d19a5a25f5f84594ce91b7b951feeaf30",
+    "cleaned/gentsch-2023-2/article_metadata.json": "006ebfc79da16baec09ae49662a2a2d333b1a1a3a337cfba0195851b246b7e6e",
+    "cleaned/gentsch-2023-2/claims/claims.json": "6f7ce818baf652700a85437f9dcbda8925f7cd938e82c982c84a0420e88bcd7f",
+    "cleaned/gentsch-2023-2/code_inventory.json": "789e7191112af652e3680b144daba19d40015731b807a11f33686183df5fe25e",
+    "cleaned/gentsch-2023-2/data_inventory.json": "75df975bfa1ba7f411218b12eb67253e0fcc3dee361bb573d449eb870975b7b9"
+  },
+  "stats": {
+    "n_claims": 6,
+    "n_code_files": 1,
+    "n_data_files": 1,
+    "n_gold_files": 17,
+    "code_total_bytes": 44507,
+    "data_total_bytes": 121245
+  },
+  "status": "completed",
+  "warnings": [],
+  "errors": []
+}

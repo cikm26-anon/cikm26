@@ -1,0 +1,1016 @@
+SOIL, 10, 139–150, 2024
+https://doi.org/10.5194/soil-10-139-2024
+© Author(s) 2024. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+SOIL
+Cover crops improve soil structure and change organic
+carbon distribution in macroaggregate fractions
+Norman Gentsch1,⋆, Florin Laura Riechers 1,⋆, Jens Boy1, Dörte Schweneker2, Ulf Feuerstein2,
+Diana Heuermann3, and Georg Guggenberger 1
+1Institute of Soil Science, Leibniz Universität Hannover, 30419 Hanover, Germany
+2Deutsche Saatveredelung AG, Steimker Weg 7, 27330 Asendorf, Germany
+3Department Physiology and Cell Biology, Leibniz Institute of Plant Genetics and Crop
+Plant Research Gatersleben, Corrensstraße 3, 06466 Seeland, Germany
+⋆These authors contributed equally to this work.
+Correspondence: Norman Gentsch (gentsch@ifbk.uni-hnnover.de)
+Received: 18 August 2023 – Discussion started: 4 September 2023
+Revised: 28 November 2023 – Accepted: 12 December 2023 – Published: 15 February 2024
+Abstract. Soil structure is sensitive to intensive soil management. It can be ameliorated by a reduction in soil
+cultivation and stimulation of plant and microbial mediators for aggregate formation, with the latter being a
+prerequisite and measure for soil quality. Cover crops (CCs) are part of an integrated approach to stabilize or
+improve soil quality. Thereby, the incorporation of diverse CC mixtures is hypothesized to increase the positive
+effects of CC applications. This study entailed an investigation of the legacy effect of CCs on soil aggregates
+after three crop rotations in the second main crop (winter wheat) after the last CC treatment. Four CCs (mustard,
+phacelia, clover, and oat) cultivated in pure stands and with a fallow treatment were compared to a mixture of the
+four CC species (Mix4) and a highly diverse 12-plant-species mixture (Mix12) in a long-term ﬁeld experiment
+in Germany. The organic carbon (OC) distribution within macroaggregate fractions (16–8, 8–4, 4–2, 2–1, and
+< 1 mm) and their aggregate stability were measured by dry- and wet-sieving methods, and the mean weight
+diameter (MWD) was calculated from water-stable aggregates.
+The results showed that, compared to the fallow, all CCs increased the MWD between 10 % and 19 % in soil
+under the following main crop. The average MWD increase over the fallow was slightly higher for CC mixtures
+(16 %) than for single CCs (12 %). Most of the OC (67.9 % on average) was stored in the < 1 mm aggregate
+fraction, highest in the topsoil and decreasing with soil depth. The intermediate fractions (8–4 mm, 4–2 mm, 2–
+1 mm) stored 8.5 %, 10.5 %, and 11.0 % of the total OC, while 2.1 % was stored in the 16–8 mm fraction. Higher
+MWD improvement at the 20–30 cm depth also indicates additional beneﬁts from a reduction in the cultivation
+depth. Structural equation modelling (SEM) suggests that single CCs were more likely to increase OC storage in
+small macroaggregates< 1 mm, while CC mixtures were more likely to increase OC in the largest fraction (8–
+16 mm). Different individual CC species or mixtures exhibited varying involvement in the formation of different
+aggregate fractions. We provide evidence that litter quality, root morphology, and rhizosphere input, which affect
+microbial mediators of aggregate formation, might be the main reasons for the observed differences between CC
+treatments. Cover crops are valuable multifunctional tools for sustainable soil management. Here, we showed
+that they contribute to structure amelioration in arable soils. Increasing the functional diversity of plant species
+in CC mixtures could be a strategy to further enhance the positive effects of CCs in agroecosystems.
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+
+140 N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution
+1 Introduction
+Restoring soil structure is one of the most important tasks
+in terms of sustainable soil management and adaptation of
+cropping systems to climate change (Lal, 2015; Williams and
+Petticrew, 2009; Obalum et al., 2017). In recent decades, soil
+structure degradation has been widespread and has been ob-
+served due to the loss of aggregate stability and changes in
+aggregate size distribution towards smaller aggregate classes
+(Boix-Fayos et al., 2001). The causes of soil structure degra-
+dation have been attributed to intensiﬁcation of soil cultiva-
+tion (Williams and Petticrew, 2009), loss of organic matter
+(OM) and soil biological functions (Obalum et al., 2017), and
+unilateral crop rotation and mineral fertilization (Lal, 2009).
+Aggregate stability can provide important information about
+soil functioning, which deﬁnes soil quality and soil health
+in agroecosystems (Seybold and Herrick, 2001; J. Lehmann
+et al., 2020). Stable soil aggregates are more stress resistant,
+decrease soil erodibility, and increase the OM protection ca-
+pacity (Dungait et al., 2012; Six et al., 2000) and climate re-
+silience of soils (Allen et al., 2011; Six and Paustian, 2014).
+Aggregation and the arrangement of the aggregates into a
+deﬁned pattern, i.e. the soil structure, depend on several pa-
+rameters and are a product of the interactions between the
+quantity and quality of organic residues entering the soil,
+indigenous soil organic matter (OM), mineral constituents,
+soil organisms, and land use history (Tisdall and Oades,
+1982). Plants are of particular importance in the manage-
+ment of the soil structure, as the farmer — with the selec-
+tion of the cultivated plant — can directly intervene in plant-
+microbial-mediated soil processes. There are four pathways
+through which plants can directly and indirectly inﬂuence
+aggregate formation: (1) functional root characteristics such
+as root morphologies vary between plant species and dif-
+ferently affect soil parameters, such as soil pore connectiv-
+ity, (macro)porosity, or aggregate stability (Kutschera et al.,
+2009; Bacq-Labreuil et al., 2019; Hudek et al., 2022). (2) Lit-
+ter quality controls the decomposition of root and shoot litter
+and provides polysaccharides as binding agents for aggre-
+gates (Liu et al., 2005). (3) Rhizodeposits (root fragments,
+cell debris, exudates, mucilage) can act as binding materi-
+als. (4) Plants have a strong impact on soil biota by shap-
+ing the microbial community with their rhizosphere inputs
+(Reinhold-Hurek et al., 2015). Soil biota is a key factor for
+aggregate formation, where bacteria and fungi appear to be
+more important than soil fauna (Lehmann et al., 2017). In
+this context, the sequence of cultivated plants in crop rotation
+plays a crucial role in the legacy of microbial processes and
+OM inputs from litter, roots, or microbial residues in arable
+soils. Therefore, crop rotation and crop history have a strong
+impact on aggregate formation and stability (Wright and An-
+derson, 2000; Zhou et al., 2020) and appear to be important
+tools for soil structure amelioration in arable systems.
+Cover crops (CCs) are cultivated for purposes of soil
+degradation protection, nutrient leaching, and remediation of
+soil quality (Thorup-Kristensen et al., 2003; Williams and
+Petticrew, 2009). The CC biomass is either harvested as fod-
+der for energy production or acts as green manure for the fol-
+lowing crop. Previous studies have demonstrated strong pos-
+itive impacts of CCs on soil structure formation and aggre-
+gate stability (Mendes et al., 1999; Dabney et al., 2001; Liu
+et al., 2005; Blanco-Canqui and Ruis, 2020; Stegarescu et
+al., 2021). Moreover, root activity was found to be the major
+driver of higher aggregate stability during CC growth (Ste-
+garescu et al., 2021). A recent study examined functional root
+traits as a basis for classifying seven different cover crops to
+improve physical soil properties, including aggregate stabil-
+ity (Hudek et al., 2022). The authors demonstrated that the
+positive effect of macroporosity and aggregate stability dur-
+ing CC growth depended on the morphology of the individual
+plant root systems. Four out of seven tested species showed
+positive trends.
+Biodiverse CC mixtures can compensate for the weak-
+nesses of single components and improve the multifunctional
+positive effects of CC (Couëdel et al., 2019). Cover crop
+mixtures can have higher root biomass than single compo-
+nents (Heuermann et al., 2019), increase the rhizosphere C
+input, and thereby stimulate microbial biomass and activ-
+ity (Gentsch et al., 2020; Chavarría et al., 2016). The bio-
+geochemical cycling rate and particularly the fungal com-
+munity composition appeared to be strongly affected by CC
+species or mixtures (Cloutier et al., 2020; Thapa et al., 2021;
+Gentsch et al., 2020). Furthermore, litter from multispecies
+CC crop mixtures increased the molecular diversity of OM
+inputs to the soil and the number of substrate niches for mi-
+crobes (Drost et al., 2020). In concluding the recent research
+on CC mixtures as compared to single-CC cultivars, all four
+pathways in aggregate formation by plant communities (as
+outlined above) might have a stronger effect in CC mixtures.
+However, the question of whether biodiverse CC mixtures are
+able to increase plant-derived soil structure remediation has
+not yet been investigated. Further, direct root effects of CCs
+on soil structure formation during their growth have already
+been documented (Hudek et al., 2022; Blanco-Canqui and
+Ruis, 2020), but there is still a lack of information on how
+long term these changes are. Here, we refer to the long-term
+effect that a CC has on the soil beyond its active growing
+period as the legacy effect.
+We hypothesize that CCs alter soil structure according to
+their root morphology so that CC mixtures which combine
+diverse functional root traits enhance aggregate stability as
+compared to single species. We further hypothesize that con-
+secutive cover cropping results in a legacy effect of soil struc-
+ture improvement for the subsequent main crops. Therefore,
+we investigated the aggregation pattern of four single and two
+CC mixtures of 4 and 12 species, respectively, in compari-
+son to a fallow treatment in a long-term ﬁeld experiment in
+Germany. We aimed to explore the legacy effect of CC on
+soil structure in the second main crop rotation following CC
+treatments.
+SOIL, 10, 139–150, 2024 https://doi.org/10.5194/soil-10-139-2024
+
+N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution 141
+2 Materials and methods
+2.1 Long-term experimental site and soil sampling
+The samples were collected from a long-term ﬁeld trial at
+the Asendorf ﬁeld station of the Deutsche Saatgutveredelung
+AG (DSV), 70 km north of Hanover, Germany (49 m above
+sea level; 52◦45′48.4′′ N, 9◦01′24.3′′ E). The climate is tem-
+perate oceanic with an annual mean temperature of 9.3 ◦C
+and a mean annual precipitation of 751 mm (long-term mean,
+1981–2010). The soil developed from a shallow loess cover
+over glacioﬂuvial sand ( > 50 cm) and was classiﬁed as a
+Stagnic Cambisol according to the World Reference Base
+(IUSS Working Group WRB, 2022). Soil texture was a silty
+loam with low heterogeneity across the ﬁeld site (Table S1 in
+the Supplement). The soil pH was slightly acidic (pH 6.0–
+6.4), and soil organic C decreased from 1.6 % in the top-
+soil (0–30 cm) to 0.8 % in the subsoil (30–60 cm). The ex-
+periment was conducted as a fully randomized block design
+with three ﬁeld replications per treatment. In total, 21 plots,
+9 m× 9 m in size (including 0.7 m edges), were sampled for
+this study.
+The CC ﬁeld trials were established in 2015 and incorpo-
+rated in a conventionally managed 2-year crop rotation with
+winter wheat (Triticum aestivum L.) in the ﬁrst year, followed
+by maize ( Zea mays L.) in the second. The wheat straw re-
+mained on the ﬁeld and was incorporated into the soil by
+a cultivator and harrow. The maximum cultivation depth was
+15 cm. The maize was harvested as whole-plant silage. Seven
+CC treatments were investigated: (i) fallow with no CC treat-
+ment (pure stands as single crops); (ii) mustard (Sinapis alba
+L.); (iii) lacy phacelia (Phacelia tanacetifolia BENTH.); (iv)
+bristle oat ( Avena strigosa SCHREB); (v) Egyptian clover
+(Trifolium alexandrinum L.); (vi) Mix4, a mix of the four
+single species; and (vii) Mix12, a commercial 12-species CC
+mix (TerraLife ® MaizePro TR Greening, DSV , Lippstadt,
+Germany). Mix12 was 23 % legumes (in shoot dry mass),
+namely, ﬁeld pea ( Pisum sativum L.), crimson clover ( Tri-
+folium incarnatum L.), alsike clover (Trifolium hybridum L.),
+Persian clover ( Trifolium resupinatum L.), and Hungarian
+vetch (Vicia pannonica CRANTZ.), and non-legume species,
+namely, sorghum ( Sorghum sudanense STEUD.), common
+ﬂax ( Linum usitatissimum L.), lacy phacelia, deeptill radish
+(Raphanus sativus L.), ramtil ( Guizotia abyssinica CASS.),
+sunﬂower ( Helianthus annuus L.), and camelina ( Camelina
+sativa L.). The fallow period was maintained mechanically or
+by herbicide application. Information on the long-term man-
+agement and agronomic practices are presented in the Sup-
+plement (Sect. S1). For further information from this long-
+term ﬁeld site on speciﬁc topics, we like to refer to the fol-
+lowing publications: Gentsch et al. (2020) for net ecosystem
+exchange and photosynthetic C input to the soil, Gentsch
+et al. (2022) for soil water availability and mineral N man-
+agement, Heuermann et al. (2019) vertical root distribution,
+Heuermann et al., (2022) for nutrient transfer to maize, and
+Heuermann et al., (2023) for metabolite proﬁles of the four
+single CCs. Plant biomass, root-to-shoot ratios, C: N ratios,
+and total nitrogen (TN) in biomass are presented in Table S4.
+Soil samples were collected with minimal disturbance on
+19 and 20 October 2020, after sowing of winter wheat, which
+equates to 7 months after incorporating the CC residues.
+Sampling occurred after completion of the third crop rota-
+tion 6 years after the experimental start. The samples were
+collected from three soil depth increments (0–10, 10–20, and
+30–40 cm) by cutting a clod (10 cm × 10 cm× 10 cm) with
+a sharp spatula and were carefully transferred to the sample
+container that ﬁt the size of the clod. Three replicates were
+collected per treatment and transported (mounted on foam)
+to the laboratory, air-dried in their clod forms, and gently
+crushed. After that, the samples were placed in a drying oven
+at 40◦C for 24 h. Samples for bulk density (BD) determina-
+tion were collected by a 100 cm 3 stainless core cutter. The
+cores were dried at 105 ◦C, and BD was determined gravi-
+metrically.
+2.2 Aggregate fractionation and stability index
+Macroaggregate stability was determined according to
+Hartge and Horn (2009). Dry soil samples from the seven
+CC variants were separated into ﬁve different aggregate sizes
+by dry sieving. To determine the distribution of the aggregate
+classes 16–8, 8–4, 4–2, 2–1, and< 1 mm, a nest of ﬁve sieves
+with mesh sizes of 16, 8, 4, 2, and 1 mm (VWR Interna-
+tional, ISO 3310, 200 mm× 50 mm, stainless steel) was used
+for manual sieving. From each sample, 120 g of the sieved
+fractions was transferred to glass backers.
+To determine the aggregate stability, the 16–8, 8–4, 4–2,
+and 2–1 mm aggregate classes from dry sieving were mixed
+together for wet sieving in proportions corresponding to their
+original aggregate distribution in the sample. A wet-sieving
+apparatus was used for this purpose according to Hartge and
+Horn (2009). Each remixed sample was rewetted to 120 % of
+its dry weight and placed on the top of a sieve nest with mesh
+sizes of 8, 4, 2, 1, 0.5, and 0.25 mm. The nest was placed in
+a holder and suspended in a container of water. Thereafter,
+the nest was lowered to the point where the soil sample on
+the top sieve was just covered with water. The sieves were
+lowered and lifted by an electric motor with a standardized
+oscillation of 4.0 cm at a frequency of 38 cycles min−1. This
+procedure was performed for 5 min. After wet sieving, each
+aggregate class was carefully transferred from the sieves into
+a glass container. The water from the wet-sieving apparatus
+was decanted after the particles settled. Accordingly, the ag-
+gregate classes were ﬂushed again with water into aluminium
+bowls. After drying at 105 ◦C, the aggregate classes were
+weighed, and two different stability indices were calculated.
+The MWD is the mean weight diameter of wet-sieved aggre-
+gates calculated according to Eq. (1):
+MWD (mm)=
+n∑
+i=1
+(Xi×Wi), (1)
+https://doi.org/10.5194/soil-10-139-2024 SOIL, 10, 139–150, 2024
+
+142 N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution
+whereXi is the average diameter in millimetres of a certain
+size fraction, Wi is the proportion by weight of aggregates
+in the size fraction, and n is the total number of size frac-
+tions (Obalum et al., 2019). The higher the MWD is, the
+more large water-stable aggregates remain in the sample. The
+GMD is the geometric mean diameter of wet-sieved aggre-
+gates calculated according to Eq. (2):
+GMD (mm)= exp
+(∑n
+i=1Wi lgXi∑n
+i=1Wi
+)
+, (2)
+whereWi is the proportion of each aggregate class in rela-
+tion to the weight of the soil samples (Zhou et al., 2020). The
+GMD is an estimate of the size of the most frequent aggre-
+gate size classes. The higher the value, the larger the mean
+aggregate size. Both indices assume that larger aggregates
+imply greater stability (Nimmo and Perkins, 2002).
+2.3 Soil organic carbon analysis
+An aliquot from each aggregate fraction and the bulk soil
+were homogenized in a ball mill and analysed for organic
+carbon (OC), total nitrogen (TN), and stable isotope ratios
+δ13C andδ15N using an Elementar IsoPrime 100 IRMS (Iso-
+Prime Ltd., Cheadle Hulme, UK) coupled to an Elementar
+Vario MICRO cube EA C/N analyser (Elementar Analysen-
+systeme GmbH, Hanau, Germany).
+2.4 Statistical analyses
+Histograms and density plots were used to explore the data
+distribution. Data were log transformed for statistical tests if
+the assumption of normality was not fulﬁlled. Levene’s test
+for homogeneity of variance revealed that the variances of
+groups of treatments were not equal. Therefore, we used pair-
+wise Welch’st tests (pairwise CI and multcompView pack-
+age) to compare differences between treatments in R ver-
+sion 4.1.3 (R Core Team, 2022). The pairwise comparison
+was done for each soil horizon or aggregate fraction sepa-
+rately, and lowercase letters should only be compared within
+a framed facet (e.g. Fig. 2a). Lowercase letters appear in as-
+cending order in relation to the mean, which means that the
+letter a always starts with the treatment of the lowest mean.
+The cut off between the terms signiﬁcant and not signiﬁ-
+cant was deﬁned to be p< 0.05. The overall effect of all
+CC treatments on MWD in comparison to the fallow was
+analysed by linear mixed models (LMM, lme4 package) tak-
+ing CC variant (all treatments) or CC type (single species
+vs. mixtures) and soil depth as random variables with vary-
+ing intercepts among CCs and depth. Mean values are pro-
+vided± standard error (SE). The impact of CC on OC dis-
+tribution in aggregate fractions was analysed in a structural
+equation model (SEM) using the R package lavaan (Rosseel,
+2012). We used a two-step approach for SEM construction.
+First, a base model was tested to conﬁrm the relationship be-
+tween the latent variables (constructed) and indicator vari-
+ables (measured). The base model used a covariance matrix
+based on the correlation pattern between forcing variables
+(Fig. S9 in the Supplement). The latent variable “aggregate
+OC distribution” was composed of OC1 (OC in the < 1 mm
+fraction), OC4_2 (OC in the 4–2 mm fraction), OC8_4 (OC
+in the 8–4 mm fraction), and OC16_8 (OC in the 16–8 mm
+fraction). Principal component analyses conﬁrmed a simi-
+lar loading of OC2_1 and OC4_2 on the ﬁrst two compo-
+nents (eigenvalue> 1), explaining 61 % of the variance in
+the data. As OC2_1 and OC4_2 are redundant variables, in-
+cluding both does not ﬁt to the model structure. Thus, we
+excluded OC2_1 from the latent variable construction. The
+second latent variable was “soil properties”, which was com-
+posed of the OC content (bulk soil), BD, and clay content.
+All global and local ﬁt parameters of the base model indi-
+cated that the model ﬁt well to the data matrix (see the R
+markdown ﬁle in the data repository). In the second step,
+the structural equation was included in the base model. The
+aggregate OC distribution was used as an endogenous vari-
+able (variable explained from the model) that was predicted
+by CC type, soil properties, and MWD (predictor variables).
+The global and local ﬁt parameters of the ﬁnal model ﬁtted
+the data properly, and all predictor variables showed a signif-
+icant impact on the aggregate OC distribution. Ther-squared
+values of the variables indicate how much of their variance
+was explained by the SEM. All statistical statements, mod-
+els, and average values can be recalculated from the metadata
+and R scripts provided. All data and R scripts for evaluation
+were uploaded to Zenodo and are publicly available (DOI:
+https://doi.org/10.5281/zenodo.7147565).
+3 Results
+3.1 OC stock changes
+Soil OC concentrations and stocks in the topsoil in-
+creased signiﬁcantly from the start of the experiment
+in 2015 to 2020 (Figs. S3 and S4 in the Supple-
+ment). The average OC concentrations increased from
+1.80 %± 0.06 % to 2.07 %± 0.06 % in the 0–10 cm layer and
+from 1.79 %± 0.06 % to 1.84 %± 0.06 % in the 20–30 cm
+layer regardless of CC treatment (Fig. S4). No signiﬁcant
+differences in OC stocks between the CC treatments and fal-
+low were found in 2020. Total OC stocks to 40 cm soil depth
+ranged from 78.5 to 120.7 t ha−1 with no signiﬁcant differ-
+ences between treatments (Fig. S5b in the Supplement). Only
+in the 0–10 cm layer did phacelia show higher OC stocks
+compared to the other treatments (Fig. S5a). There was a
+strong negative correlation between OC and BD (R2= 0.44,
+p< 0.001) but not with soil texture. Reasons for the OC in-
+crease in all treatments, including fallow status, are discussed
+in the Supplement (Sect. S1) but will not be the topic of fur-
+ther discussion here.
+SOIL, 10, 139–150, 2024 https://doi.org/10.5194/soil-10-139-2024
+
+N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution 143
+3.2 Aggregate distribution and OC in aggregate
+fractions
+Most of the soil aggregates (57.5 % to 74.2 %) were stored
+in the < 1 mm fraction, highest in the topsoil and decreas-
+ing with soil depth (Fig. S6 in the Supplement). The in-
+termediate fractions (8–4, 4–2, 2–1 mm) ranged from 5.6 %
+to 13.8 %, each. The largest fraction (16–8 mm) contributed
+least to the total soil aggregates (0 % to 7.0 %). A similar
+distribution was found for the proportion of OC in different
+aggregate fractions (Fig. S7 in the Supplement). The variabil-
+ity of OC distribution within aggregates was quite large be-
+tween (Fig. 1) but also within CC treatments (Fig. S8). Thus,
+only a few of the observed trends were signiﬁcantly different
+by pairwise comparison of treatments (Fig. S8). For exam-
+ple, the largest differences among CC treatments were found
+in the top 0–10 cm, between oat and Mix12, Mix4, and fal-
+low. Of all treatments, oat led to the highest proportion of
+OC in the < 1 mm fraction (Fig. 1), which was a signiﬁcant
+difference from Mix12 (p= 0.038) in the uppermost layer
+(Fig. S8). All pure cultivated CCs tended to store more OC
+in the < 1 mm fraction in the 0–10 cm increment, whereas
+mixtures stored a greater proportion in the 16–8 mm fraction.
+In the soil increments below 20 cm, the data variability was
+large between treatments. Here, only Mix4 led to approxi-
+mately 1 % more OC in the 2–1 mm fraction than oat at the
+30–40 cm depth (Fig. S8).
+3.3 Aggregate stability indicators
+The MWD varied among treatments and soil depths (Fig. 2a).
+A larger MWD indicates that more large-scale aggregates are
+present after wet sieving. When focusing on individual soil
+horizons, pairwise comparison indicated signiﬁcantly higher
+MWD compared to the fallow for clover at 0–10 cm (18.8 %
+higher,p= 0.017), Mix12 at 20–30 cm (37.6 % higher,p=
+0.049), and phacelia (17.0 % higher, p= 0.018) and Mix4
+(12.8 % higher, p= 0.037) at 30–40 cm. A comprehensive
+data evaluation of the LMMs indicated that the MWD in-
+creased with soil depth and was signiﬁcantly higher in the
+CC treatments than in the fallow treatment (Fig. 2b). The
+LMMs across soil depths indicated that all CCs increased
+the MWD from 10 % for oat and up to 19 % for Mix12 com-
+pared to fallow (Table 1, model 1). Only the increase from
+oat was not signiﬁcant. A second model on CC type (Table 1,
+model 2) indicated that CC mixtures showed a higher MWD
+increase (16 %) than single species (12 %). We explored the
+relationship between MWD and the soil parameters’ OC con-
+tent, texture, and BD. None of the parameters showed a sig-
+niﬁcant relationship to MWD (see R markdown ﬁle in the
+data repository). The CC litter C : N ratio was signiﬁcantly
+negatively related to the MWD in the topsoil ( R2= 0.35,
+p= 0.01, Fig. S9) but not in the subsoil (data on CC C : N
+ratios were published in Gentsch et al. (2022) and Table S3 in
+the Supplement). Similar trends were also found with GMD
+(see R markdown ﬁle in the data repository).
+Furthermore, we tested the relationship between MWD
+and OC in different aggregate size fractions (Fig. S9). There
+was a signiﬁcant positive correlation between MWD and OC
+in the 8–4 mm fraction ( R2= 0.25, p< 0.001), a slightly
+positive but signiﬁcant trend with 16–8 mm sized aggregates
+(Fig. S9), and a negative correlation with OC in the < 1 mm
+fraction (R2= 0.19,p< 0.001). Similar trends to what we
+identiﬁed for the MWD were also observed for the GMD,
+but the evaluation with an LMM showed signiﬁcantly higher
+GMD compared to fallow only for mixed CC (Fig. S11 in the
+Supplement).
+3.4 Impacts on aggregate OC distribution
+The impact of soil parameters and CC type on aggregate OC
+distribution was evaluated by SEM (Fig. 3). The overall ﬁt
+parameters indicated that the model ﬁt the data satisfactorily
+(χ 2= 28.7,p= 0.12, RMSEA= 0.08). Ther square of the
+SEM variables indicated that 70 % of the variance in aggre-
+gate OC distribution is explained by the model (see R mark-
+down ﬁle in the data repository). The regression parameters
+in the SEM indicated that all of the selected predictor vari-
+ables showed a signiﬁcant impact on aggregate OC distribu-
+tion (p< 0.02). The standardized estimates of the predictors
+indicated that MWD had the highest impact on aggregate
+OC distribution, followed by soil parameters, and CC type
+(Fig. 3). The factor CC type was composed of three factors
+in the order mix, fallow, and single. The interpretation of the
+CC type in SEM is visualized in the R markdown ﬁle (see
+R markdown ﬁle in the data repository). By the change in
+the CC type from mix to fallow to single CCs, the OC dis-
+tribution is affected positively, which means that OC in the
+< 1 mm fraction increases, while OC in the larger fractions
+decreases.
+4 Discussion
+4.1 Changes in aggregate stability
+The MWD and the GMD both serve as aggregate stability
+indices assuming that more of the larger aggregates resist
+wet-sieving treatment. The results indicated that the repeated
+application of CC (Table 1, Fig. 2b) increased the average
+size of soil aggregates and their stress resistance compared
+to fallow. Larger aggregates consist of subunits of smaller
+aggregates that are internally bound more strongly to each
+other as the MWD and GMD indices increase (Nimmo and
+Perkins, 2002). We found no correlation between the MWD
+and soil texture, BD, or bulk soil OC content (see R mark-
+down ﬁle in the data repository). This suggested that fac-
+tors other than soil properties determine differences in ag-
+gregate stability at the experimental site. The average MWD
+increase over fallow was slightly higher for CC mixtures
+https://doi.org/10.5194/soil-10-139-2024 SOIL, 10, 139–150, 2024
+
+144 N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution
+Figure 1. Relative proportion of OC in different soil fractions relative to the fallow level. Fallow as 100 % is marked by the black polygon
+in the background. Polygons represent the means of three replicates, and statistical evaluation of the graph is shown in Fig. S8.
+Figure 2. Mean weight diameter (MWD) of soil aggregates after wet sieving from different soil depths. Lowercase letters in (a) denote
+signiﬁcant differences between CC treatments by pairwise comparison for each soil depth independently. Lowercase letters in (b) denote
+overall effects of CC from a LMM. Transparent points represent the individual measurements, and full colours are mean values ( ± SE).
+Single refers to pure cultivated CCs, and Mix refers to CC mixtures.
+(16 %) than for single CCs (12 %). Despite a partially large
+variability of the data (Fig. 2a), some CC species appeared
+to have a stronger effect at a speciﬁc soil depth than others.
+Clover signiﬁcantly increased the MWD in the 0–10 cm in-
+crement, while phacelia increased the MWD in the 30–40 cm
+increment compared to the fallow (Fig. 2a). As both species
+are part of the mixtures, these trends can also be observed
+in the mixtures. Clover, however, was usually only a minor
+component in Mix4 ( < 1 %–5 % of the total root biomass,
+Heuermann et al., 2019), and the effect in the 0–10 cm in-
+crement was not present in Mix4. Differences in root mor-
+phology between species at the sampling site are well doc-
+umented in Heuermann et al. (2019) and might be one fac-
+tor for differences in MWD between species. Clover has its
+SOIL, 10, 139–150, 2024 https://doi.org/10.5194/soil-10-139-2024
+
+N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution 145
+Table 1. Results of two LMMs with MWD as the response and CC variant or CC type as the predictor variable. Soil depth was set as a
+random variable. Interpretation: the estimated mean of fallow is the reference group, and changing the treatment from fallow to mustard will
+increase the MWD by 0.33 mm, which represents an increase of 12.4 %.
+Coefﬁcient Estimate MWD (mm) SE df t value p value Sig.
+Model 1 CC variant
+Mean fallow (intercept) 2.65 0.18 4.27 14.47 0.000087 ***
+Fallow – mustard 0.33 0.16 54 2.07 0.043316 *
+Fallow – clover 0.34 0.16 54 2.18 0.033884 *
+Fallow – oat 0.28 0.16 54 1.74 0.086755 .
+Fallow – phacelia 0.32 0.16 54 2.05 0.045397 *
+Fallow – Mix4 0.34 0.16 54 2.18 0.033698 *
+Fallow – Mix12 0.51 0.16 54 3.26 0.001928 *
+Model 2 CC type
+Mean fallow (intercept) 2.65 0.18 4.15 14.57 0.000101 ***
+Fallow – mix 0.43 0.13 58 3.21 0.002138 **
+Fallow – single 0.32 0.12 58 2.60 0.011753 *
+maximum root biomass in the upper 20 cm soil depth, while
+phacelia can root approximately 70 cm and deeper. Clover
+also showed the highest root-to-shoot ratio of all CC treat-
+ments (Table S4 in the Supplement). In a recent study, total
+root length and root surface area correlated positively with
+aggregate stability, and it was shown that several different
+CCs led to higher aggregate stability in the topsoil (0–15 cm,
+Hudek et al., 2022).
+Our models indicated that the largest differences in MWD
+(Fig. 2b) and particularly in GMD (Fig. S10b in the Supple-
+ment) between CC and the fallow occurred in the 20–30 cm
+soil layer. As the maximum cultivation depth during the ex-
+periment was 15–20 cm, this indicates that the layers below
+the cultivation depth beneﬁt most from CC treatments. Soil
+cultivation and tillage have a strong impact on aggregate sta-
+bility and soil structure, resulting in lower MWD (Obalum et
+al., 2019) and lower connectivity of the pore network (Lu-
+cas et al., 2019). Plant activity, on the other hand, has been
+demonstrated to establish stable and connected biopore sys-
+tems within 6 years (Lucas et al., 2019). Here, we demon-
+strate that, 6 years after the last ploughing to 30 cm depth (see
+Sect. S1 in the Supplement), the incorporation of CC resulted
+in a faster improvement of MWD and GMD in comparison
+to fallow treatments. Therefore, reduced soil cultivation can
+be even more beneﬁcial for soil structure amelioration if CCs
+are incorporated into the crop rotation.
+The signiﬁcantly higher MWD and GMD values of Mix12
+at 20–30 cm might indicate additional beneﬁts for aggre-
+gate stability when more biodiverse CC mixtures are grown.
+Apart from root morphology, the quality and quantity of root
+exudates and plant litter (root and shoot) can be quite dif-
+ferent between CC plant species. The metabolite proﬁling
+of the four single CCs at the sampling site revealed that ev-
+ery plant species showed a characteristic pattern of chemical
+compounds that are released into the soil (Heuermann et al.,
+2023). In particular, secondary metabolites with signalling
+functions were closely related to certain plant species. For
+example, the presence of phenylpropanoids, which regulate
+interactions between plants and their microbial associations,
+was largely conﬁned to clover (Heuermann et al., 2023). The
+authors found various plant-speciﬁc secondary metabolites
+with functions for improving iron availability: as chemotactic
+agents for microbes, as plant-microbial signalling, as signals
+in plant–plant communication, as allelochemicals, as biotic
+defence, or as nitrogen sources for neighbours. Also the total
+carbon in ﬁeld root exudates differed strongly between CCs
+and was highest for phacelia.
+Plants shape the microbial community in their rhizosphere
+by the composition of their root exudates (Reinhold-Hurek
+et al., 2015; Ulcuango et al., 2021). Root biomass and root
+exudates are linked to higher fungal and bacterial biomass
+(Eisenhauer et al., 2017). The study of Thapa et al. (2021)
+indicated that CCs resulted in a 41 % greater fungal commu-
+nity than the fallow. But also the fungal community compo-
+sition and their functional traits are strongly affected by the
+CC type (Cloutier et al., 2020). Therefore, we suggest that
+the signiﬁcantly higher impact of clover in the 0–10 cm layer
+was derived from the higher rhizosphere input and attraction
+of microbial mediators suitable for aggregate formation, such
+as fungi (A. Lehmann et al., 2020). This might also explain
+the better performance of CC mixtures for aggregate forma-
+tion compared to single species and the differences between
+CC treatments in the subsoil. Previous experiments at the
+same site showed higher photoassimilate C transport rates to
+the rhizosphere for CC mixtures, prolonged mean residence
+times of these compounds in the soil, and the connection to
+higher fungal activity compared to single CC (Gentsch et
+al., 2020). Additionally, Baumert et al. (2018) found signiﬁ-
+https://doi.org/10.5194/soil-10-139-2024 SOIL, 10, 139–150, 2024
+
+146 N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution
+Figure 3. Structural equation model (SEM) investigating the impact of parameters on aggregate OC distribution. Latent variables (blue)
+are predicted by grey-arrowed observed variables. Dashed lines indicate covariance variables. Numbers show standardized estimates withp
+values as asterisks. All model parameters are shown in the R markdown ﬁle (Supplement). MWD refers to mean weight diameter, and BD
+refers to bulk density.
+cant promotion of particular fungi by greater exudate release,
+which have the largest impact on macroaggregate formation
+in the subsoil.
+The OM chemistry that is incorporated into the soil plays
+an important role in the aggregation process. A recent meta-
+analysis indicated that plant residue amendments and the
+type of plant material have a strong positive impact on MWD
+(Husain and Dijkstra, 2023). In a study of different OM
+types, Sarker et al. (2018) used 13C NMR spectroscopy to
+evaluate the impact on MWD (referred to as the aggrega-
+tion index in the study). The authors found that materials
+with high protein contents and low C : N ratios, such as al-
+falfa litter, showed a rapid positive response to MWD. With a
+similar approach, Halder et al. (2021) showed a positive cor-
+relation of MWD to alkyl and carbonyl C and soluble sug-
+ars that were highest in legume litter (alfalfa, vetch species)
+with low C: N ratios. Both of the former studies also showed
+that materials such as maize litter or wheat straw, rich in cel-
+lulose and hemicellulose, with wide C : N ratios but being
+poor in soluble fractions, had an intermediate but persistent
+response to MWD. Plant C: N ratios strongly correlate with
+the quantity of cellulose and hemicellulose in plant residues
+(Jensen et al., 2005). Thus, cover crops with wider C: N ra-
+tios such as oat, mustard, or oilseed radish typically show
+higher quantities of cellulose and hemicellulose than litters
+with low C: N ratios, such as legumes ( ¸ Tî¸ tei, 2002; Oliveira
+et al., 2016; Halder et al., 2021). In our study, we found a sig-
+niﬁcant negative correlation between MWD and the C: N ra-
+tio of CC litter in the 0–10 cm increment but not in the deeper
+layers (Fig. S9). This suggested that the litter quality of CC
+SOIL, 10, 139–150, 2024 https://doi.org/10.5194/soil-10-139-2024
+
+N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution 147
+residues plays an important role in aggregate stability when
+incorporated into the topsoil. The C : N ratios were ranked
+in the order of clover, Mix12, phacelia, mustard, Mix4, and
+oat, suggesting that the positive impact of CC on MWD in
+the topsoil decreased from clover to oat. The low-quality lit-
+ter input from clover or Mix12 might also help to decompose
+the more structure-rich residues of the previous winter wheat
+straw more efﬁciently (Barel et al., 2019).
+Below the cultivation depth, factors other than litter qual-
+ity, such as root exudates, might be more prominent for ag-
+gregate formation. Fresh plant residues induce the formation
+of macroaggregates as a result of higher microbial activity
+(Six et al., 2000). Litter quality exerts control on the de-
+composer community composition, which will change as a
+result of decomposition (Marschner et al., 2011; Berg and
+McClaugherty, 2014). These processes result in microbial-
+derived organic substances that are key to building up soil
+aggregates.
+We conclude that the combination of plants with different
+litter qualities and rhizodeposits might explain the better per-
+formance of CC mixtures, as well as differences between CC
+species for soil aggregate amelioration. Consecutive integra-
+tion of CC in the crop rotation resulted in a positive legacy ef-
+fect on aggregate stability. Reduced cultivation depth in com-
+bination with CC mixtures might be an additional beneﬁt to
+improve the soil structure in the subsoil.
+4.2 OC distribution in aggregates
+The impact of various parameters on aggregate OC distri-
+bution was explored by SEM. The model indicates that the
+MWD and soil properties had the strongest direct effect on
+aggregate OC distribution (Fig. 3). Soil properties are well
+known for their contribution to soil aggregate formation.
+Schweizer et al. (2019), for example, showed the dependency
+of macroaggregate formation on clay content, while Blanco-
+Canqui and Lal (2004) emphasized the role of OM quality
+and quantity in aggregate formation and OC sequestration. A
+lower but signiﬁcant effect on the OC distribution was found
+for the CC type (Fig. 3), suggesting that it matters if we grow
+CC instead of fallow as mixtures or single species. Although
+difﬁcult to detect in pairwise comparisons, mixtures tended
+to increase OC in the 16–8 mm fraction, while single species
+supported OC in the < 1 mm fraction, at least in the topsoil
+(Figs. 1, S7, and S8 in the Supplement). The SEM supports
+these trends and suggests that, with the change in the treat-
+ments from CC mixtures to fallow to single CC, OC in the
+< 1 mm fraction will increase, while OC in the larger frac-
+tions will decrease. The tendency towards more OC in larger
+soil fractions might be one of the reasons for the increasing
+MWD after mixed CC treatments and the positive linear re-
+lationship between MWD and OC content in fractions 4–8
+and 8–16 mm (Fig. S9). These correlations also underscore
+that OC stored in the two largest fractions is more stable to
+withstand induced forces from our wet-sieving treatment.
+Management practices were found to have a strong im-
+pact on OC distribution within aggregates, and a reduction
+in tillage resulted in higher OC storage in macroaggregates
+compared to conventionally tilled soils (Blanco-Canqui and
+Lal, 2004). Here, we demonstrated that crop history has a
+legacy effect on the OC distribution and that the incorpo-
+ration of CC can change the OC distribution within aggre-
+gate classes. Classical concepts (such as Tisdall and Oades,
+1982) indicate that plants and crop management are strong
+factors in macroaggregate formation, where the number of
+stable macroaggregates decreases when rhizosphere products
+and hyphae are decomposed and not replaced. Later stud-
+ies conﬁrmed the role of crop rotation in the management of
+aggregate binding agents (Chan and Heenan, 1999; Blanco-
+Canqui and Lal, 2004). Overall, our results demonstrate that
+CC incorporation attenuates negative effects on soil structure
+that come from soil cultivation. The compensation effect was
+even stronger when biodiverse CC mixtures were applied.
+5 Conclusions
+This study demonstrates that the stability of macroaggregates
+and OC distribution in aggregate fractions in arable soils par-
+tially depend on crop rotation and incorporation of CCs. We
+argue that CC aggregate formation depends on the litter qual-
+ity, root morphology, and rhizosphere input of CCs, which
+stimulate microbial mediators for aggregate formation. Litter
+quality had positive effects in the topsoil (0–10 cm) when CC
+residues with low C: N ratios were incorporated into the top-
+soil. Layers below the cultivation depth ( > 15 cm) showed
+the strongest response to CC treatments, and root morphol-
+ogy together with exudate-stimulated microbial growth was
+more likely to be the factor for the positive effects observed.
+Cover crop mixtures tended to have additional beneﬁts for
+the MWD over single CCs and increased OC accumulation
+in large aggregate fractions (16–8 mm). The consecutive inte-
+gration of CCs in crop rotation can be used to ameliorate ag-
+gregate stability in cultivated soils. Reduced soil cultivation
+depth can be even more beneﬁcial for soil structure ameliora-
+tion if CCs are incorporated into the crop rotation. Stable and
+agglomerated aggregates are core parameters for soil quality
+and one of the key indicators in the soil health concept. Ag-
+gregation affects root penetration, decreases the risk of soil
+erosion, and increases hydraulic functions. Aggregates are
+hotspots for biogeochemical cycling and contribute to plant
+nutrition. Therefore, we conclude that the improvement of
+soil structure that we observed is one of the factors medi-
+ated by CCs, leading to higher and resilient crop yields. Soil
+structure improvement is one of the multiple services that
+CCs fulﬁl in agroecosystems and, as such, is part of a mul-
+tifunctional concept of CC. Further research might explore
+multiple functional traits in CC mixtures and identify smart
+plant species combinations to maximize the beneﬁts of cover
+cropping.
+https://doi.org/10.5194/soil-10-139-2024 SOIL, 10, 139–150, 2024
+
+148 N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution
+Code and data availability. All metadata and R code to repro-
+duce the content of this study are publicly available under the
+Creative Commons Attribution 3.0 Germany. The ﬁles are ac-
+cessible from the Zenodo archive through the following DOI:
+https://doi.org/10.5281/zenodo.7147565 (Gentsch, 2022).
+Supplement. The supplement related to this article is available
+online at: https://doi.org/10.5194/soil-10-139-2024-supplement.
+Author contributions. NG designed the experiment and carried
+out the ﬁeldwork and all statistical analyses. FLR participated in
+ﬁeld work carried out most of the laboratory work and provided
+raw data. NG and FLR were writing the paper. DH participated in
+the data analyses and helped with the discussion and improvements
+of the paper. DS and UF maintained the ﬁeld sites and carried out
+all agronomic measures. GG and JB developed the project ideas,
+recruited funding, and participated in improvement of the paper.
+Competing interests. The contact author has declared that none
+of the authors has any competing interests.
+Disclaimer. Publisher’s note: Copernicus Publications remains
+neutral with regard to jurisdictional claims made in the text, pub-
+lished maps, institutional afﬁliations, or any other geographical rep-
+resentation in this paper. While Copernicus Publications makes ev-
+ery effort to include appropriate place names, the ﬁnal responsibility
+lies with the authors.
+Acknowledgements. This work is part of the BonaRes (Soil as
+a Sustainable Resource for the Bioeconomy) project CATCHY
+(Catch-cropping as an agrarian tool for continuing soil health and
+yield increase), funded by the German Federal Ministry of Educa-
+tion and Research (BMBF). We are grateful to Silke Bokeloh and
+the whole laboratory team from the Institute of Soil Science for the
+assistance with sample preparation and measurements.
+Financial support. This research has been supported by the Bun-
+desministerium für Bildung und Forschung (grant no. 031B1060C).
+The publication of this article was funded by the open-access
+fund of Leibniz Universität Hannover.
+Review statement. This paper was edited by Ping He and re-
+viewed by two anonymous referees.
+References
+Allen, D. E., Singh, B. P., and Dalal, R. C.: Soil Health Indica-
+tors Under Climate Change: A Review of Current Knowledge,
+in: Soil Health and Climate Change, edited by: Singh, B. P.,
+Cowie, A. L., and Chan, K. Y ., Springer, Berlin, Heidelberg, 25–
+45, https://doi.org/10.1007/978-3-642-20256-8_2, 2011.
+Bacq-Labreuil, A., Crawford, J., Mooney, S. J., Neal, A. L., and
+Ritz, K.: Cover crop species have contrasting inﬂuence upon
+soil structural genesis and microbial community phenotype, Sci.
+Rep.-UK, 9, 7473, https://doi.org/10.1038/s41598-019-43937-6,
+2019.
+Barel, J. M., Kuyper, T. W., Paul, J., de Boer, W., Cornelis-
+sen, J. H. C., and De Deyn, G. B.: Winter cover crop legacy
+effects on litter decomposition act through litter quality and
+microbial community changes, J. Appl. Ecol., 56, 132–143,
+https://doi.org/10.1111/1365-2664.13261, 2019.
+Baumert, V . L., Vasilyeva, N. A., Vladimirov, A. A., Meier, I. C.,
+Kögel-Knabner, I., and Mueller, C. W.: Root Exudates Induce
+Soil Macroaggregation Facilitated by Fungi in Subsoil, Front.
+Environ. Sci., 6, https://doi.org/10.3389/fenvs.2018.00140,
+2018.
+Berg, B. and McClaugherty, C.: Plant litter, Springer, Berlin, Hei-
+delberg, https://doi.org/10.1007/978-3-662-05349-2, 2014.
+Blanco-Canqui, H. and Lal, R.: Mechanisms of Carbon Seques-
+tration in Soil Aggregates, Crit. Rev. Plant Sci., 23, 481–504,
+https://doi.org/10.1080/07352680490886842, 2004.
+Blanco-Canqui, H. and Ruis, S. J.: Cover crop impacts on soil phys-
+ical properties: A review, Soil Sci. Soc. Am. J., 84, 1527–1576,
+https://doi.org/10.1002/saj2.20129, 2020.
+Boix-Fayos, C., Calvo-Cases, A., Imeson, A. C., and Soriano-
+Soto, M. D.: Inﬂuence of soil properties on the aggregation of
+some Mediterranean soils and the use of aggregate size and
+stability as land degradation indicators, CATENA, 44, 47–67,
+https://doi.org/10.1016/S0341-8162(00)00176-4, 2001.
+Chan, K. Y . and Heenan, D. P.: Microbial-induced soil aggregate
+stability under different crop rotations, Biol. Fert. Soils, 30, 29–
+32, https://doi.org/10.1007/s003740050583, 1999.
+Chavarría, D. N., Verdenelli, R. A., Munoz, E., Conforto, E. C.,
+Restovich, S. B., Andriulo, A. E., Meriles, J. M., and Vargas Gil,
+S.: Soil microbial functionality in response to the inclusion of
+cover crop mixtures in agricultural systems, Spanish J. Agr. Res.,
+14, e0304, https://doi.org/10.5424/sjar/2016142-8395, 2016.
+Cloutier, M., Murrell, E., Barbercheck, M., Kaye, J., Finney, D.,
+García-González, I., and Bruns, M.: Fungal community shifts
+in soils with varied cover crop treatments and edaphic prop-
+erties, Sci. Rep.-UK, 10, 6198, https://doi.org/10.1038/s41598-
+020-63173-7, 2020.
+Couëdel, A., Kirkegaard, J., Alletto, L., and Justes, É.: Crucifer-
+legume cover crop mixtures for biocontrol: Toward a new multi-
+service paradigm, in: Advances in Agronomy, vol. 157, Elsevier,
+55–139, https://doi.org/10.1016/bs.agron.2019.05.003, 2019.
+Dabney, S. M., Delgado, J. A., and Reeves, D. W.: Using Win-
+ter Cover Crops to Improve Soil and Water Quality, Commun.
+Soil Sci. Plan., 32, 1221–1250, https://doi.org/10.1081/CSS-
+100104110, 2001.
+Drost, S. M., Rutgers, M., Wouterse, M., de Boer, W., and Bodelier,
+P. L. E.: Decomposition of mixtures of cover crop residues in-
+creases microbial functional diversity, Geoderma, 361, 114060,
+https://doi.org/10.1016/j.geoderma.2019.114060, 2020.
+Dungait, J. A. J., Hopkins, D. W., Gregory, A. S., and Whit-
+more, A. P.: Soil organic matter turnover is governed by acces-
+sibility not recalcitrance, Glob. Change Biol., 18, 1781–1796,
+https://doi.org/10.1111/j.1365-2486.2012.02665.x, 2012.
+SOIL, 10, 139–150, 2024 https://doi.org/10.5194/soil-10-139-2024
+
+N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution 149
+Eisenhauer, N., Lanoue, A., Strecker, T., Scheu, S., Steinauer, K.,
+Thakur, M. P., and Mommer, L.: Root biomass and exudates link
+plant diversity with soil bacterial and fungal biomass, Sci. Rep.-
+UK, 7, 1–8, https://doi.org/10.1038/srep44641, 2017.
+Gentsch, N.: Cover crops improve soil structure and change OC
+distribution in aggregate fractions (Version 2), Zenodo [data set
+and code], https://doi.org/10.5281/zenodo.7147565, 2022.
+Gentsch, N., Boy, J., Batalla, J. D. K., Heuermann, D., von
+Wirén, N., Schweneker, D., Feuerstein, U., Groß, J., Bauer, B.,
+Reinhold-Hurek, B., Hurek, T., Céspedes, F. C., and Guggen-
+berger, G.: Catch crop diversity increases rhizosphere carbon in-
+put and soil microbial biomass, Biol. Fert. Soils, 56, 943–957,
+https://doi.org/10.1007/s00374-020-01475-8, 2020.
+Gentsch, N., Heuermann, D., Boy, J., Schierding, S., von Wirén,
+N., Schweneker, D., Feuerstein, U., Kümmerer, R., Bauer,
+B., and Guggenberger, G.: Soil nitrogen and water man-
+agement by winter-killed catch crops, SOIL, 8, 269–281,
+https://doi.org/10.5194/soil-8-269-2022, 2022.
+Halder, M., Liu, S., Zhang, Z. B., Guo, Z. C., and Peng,
+X. H.: Effects of residue stoichiometric, biochemical and
+C functional features on soil aggregation during decompo-
+sition of eleven organic residues, CATENA, 202, 105288,
+https://doi.org/10.1016/j.catena.2021.105288, 2021.
+Hartge, K. H. and Horn, R.: Die physikalische Untersuchung von
+Böden, 4th edn., E. Schweitzerbart’sche Verlagsbuchhandlung
+(Nägele u. Obermiller), Stuttgart, 2009.
+Heuermann, D., Gentsch, N., Boy, J., Schweneker, D., Feuerstein,
+U., Groß, J., Bauer, B., Guggenberger, G., and von Wirén, N.:
+Interspeciﬁc competition among catch crops modiﬁes vertical
+root biomass distribution and nitrate scavenging in soils, Sci.
+Rep.-UK, 9, 1–11, https://doi.org/10.1038/s41598-019-48060-0,
+2019.
+Heuermann, D., Gentsch, N., Guggenberger, G., Reinhold-Hurek,
+B., Schweneker, D., Feuerstein, U., Heuermann, M. C., Groß,
+J., Kümmerer, R., Bauer, B., and von Wirén, N.: Catch crop
+mixtures have higher potential for nutrient carry-over than
+pure stands under changing environments, Eur. J. Agron., 136,
+126504, https://doi.org/10.1016/j.eja.2022.126504, 2022.
+Heuermann, D., Döll, S., Schweneker, D., Feuerstein, U.,
+Gentsch, N., and von Wirén, N.: Distinct metabolite classes
+in root exudates are indicative for ﬁeld- or hydroponically-
+grown cover crops, Front. Plant Sci., 14, 1122285,
+https://doi.org/10.3389/fpls.2023.1122285, 2023.
+Hudek, C., Putinica, C., Otten, W., and De Baets, S.: Func-
+tional root trait-based classiﬁcation of cover crops to im-
+prove soil physical properties, Eur. J. Soil Sci., 73, e13147,
+https://doi.org/10.1111/ejss.13147, 2022.
+Husain, H. and Dijkstra, F. A.: The inﬂuence of plant
+residues on soil aggregation and carbon content: A
+meta-analysis, J. Plant Nutr. Soil Sc., 186, 177–187,
+https://doi.org/10.1002/jpln.202200297, 2023.
+IUSS Working Group WRB: World Reference Base for Soil Re-
+sources. International soil classiﬁcation system for naming soils
+and creating legends for soil maps, 4th edn., International Union
+of Soil Sciences (IUSS), Vienna, Austria, 2022.
+Jensen, L. S., Salo, T., Palmason, F., Breland, T. A., Henriksen, T.
+M., Stenberg, B., Pedersen, A., Lundström, C., and Esala, M.:
+Inﬂuence of biochemical quality on C and N mineralisation from
+a broad variety of plant materials in soil, Plant Soil, 273, 307–
+326, https://doi.org/10.1007/s11104-004-8128-y, 2005.
+Kutschera, L., Lichtenegger, E., and Sobotik, M.: Wurzelatlas der
+Kulturpﬂanzen gemäßigter gebiete mit Arten des Feldgemüse-
+baues, 2nd edn., DLG-Verlag, Frankfurt am Main, 2009.
+Lal, R.: Soil degradation as a reason for inadequate human nutri-
+tion, Food Secur., 1, 45–57, https://doi.org/10.1007/s12571-009-
+0009-z, 2009.
+Lal, R.: Restoring Soil Quality to Mitigate Soil Degradation, Sus-
+tainability, 7, 5875–5895, https://doi.org/10.3390/su7055875,
+2015.
+Lehmann, A., Zheng, W., and Rillig, M. C.: Soil biota contri-
+butions to soil aggregation, Nat. Ecol. Evol., 1, 1828–1835,
+https://doi.org/10.1038/s41559-017-0344-y, 2017.
+Lehmann, A., Zheng, W., Ryo, M., Soutschek, K., Roy, J., Rong-
+stock, R., Maaß, S., and Rillig, M. C.: Fungal Traits Im-
+portant for Soil Aggregation, Front. Microbiol., 10, 2904,
+https://doi.org/10.3389/fmicb.2019.02904, 2020.
+Lehmann, J., Bossio, D. A., Kögel-Knabner, I., and Rillig, M. C.:
+The concept and future prospects of soil health, Nat. Rev. Earth
+Environ., 1, 544–553, https://doi.org/10.1038/s43017-020-0080-
+8, 2020.
+Liu, A., Ma, B. L., and Bomke, A. A.: Effects of Cover
+Crops on Soil Aggregate Stability, Total Organic Carbon,
+and Polysaccharides, Soil Sci. Soc. Am. J., 69, 2041–2048,
+https://doi.org/10.2136/sssaj2005.0032, 2005.
+Lucas, M., Schlüter, S., V ogel, H.-J., and Vetterlein, D.: Soil struc-
+ture formation along an agricultural chronosequence, Geoderma,
+350, 61–72, https://doi.org/10.1016/j.geoderma.2019.04.041,
+2019.
+Marschner, P., Umar, S., and Baumann, K.: The microbial com-
+munity composition changes rapidly in the early stages of de-
+composition of wheat residue, Soil Biol. Biochem., 43, 445–451,
+https://doi.org/10.1016/j.soilbio.2010.11.015, 2011.
+Mendes, I. C., Bandick, A. K., Dick, R. P., and Bottomley, P. J.:
+Microbial Biomass and Activities in Soil Aggregates Affected
+by Winter Cover Crops Oregon State Univ. Agric. Exp. Stn.
+Technical paper 11 224, Soil Sci. Soc. Am. J., 63, 873–881,
+https://doi.org/10.2136/sssaj1999.634873x, 1999.
+Nimmo, J. R. and Perkins, K. S.: 2.6 Aggregate Stability and Size
+Distribution, in: Methods of Soil Analysis, John Wiley & Sons,
+Ltd, 317–328, https://doi.org/10.2136/sssabookser5.4.c14, 2002.
+Obalum, S. E., Chibuike, G. U., Peth, S., and Ouyang, Y .: Soil
+organic matter as sole indicator of soil degradation, Environ.
+Monit. Assess., 189, 176, https://doi.org/10.1007/s10661-017-
+5881-y, 2017.
+Obalum, S. E., Uteau-Puschmann, D., and Peth, S.: Reduced tillage
+and compost effects on soil aggregate stability of a silt-loam Lu-
+visol using different aggregate stability tests, Soil Till. Res., 189,
+217–228, https://doi.org/10.1016/j.still.2019.02.002, 2019.
+Oliveira, R. A. de, Brunetto, G., Loss, A., Gatiboni, L. C., Kürtz,
+C., Müller Júnior, V ., Lovato, P. E., Oliveira, B. S., Souza, M.,
+and Comin, J. J.: Cover Crops Effects on Soil Chemical Prop-
+erties and Onion Yield, Rev. Bras. Ciênc. Solo, 40, e0150099,
+https://doi.org/10.1590/18069657rbcs20150099, 2016.
+R Core Team: R: A Language and Environment for Statistical Com-
+puting. R Foundation for Statistical Computing, Vienna, 2022.
+Reinhold-Hurek, B., Bünger, W., Burbano, C. S., Sabale, M., and
+Hurek, T.: Roots Shaping Their Microbiome: Global Hotspots
+https://doi.org/10.5194/soil-10-139-2024 SOIL, 10, 139–150, 2024
+
+150 N. Gentsch et al.: Cover crops improve soil structure and change organic carbon distribution
+for Microbial Activity, Annu. Rev. Phytopathol., 53, 403–424,
+https://doi.org/10.1146/annurev-phyto-082712-102342, 2015.
+Rosseel, Y .: lavaan: An R Package for Structural
+Equation Modeling, J. Stat. Softw., 48, 1–36,
+https://doi.org/10.18637/jss.v048.i02, 2012.
+Sarker, T. C., Incerti, G., Spaccini, R., Piccolo, A., Maz-
+zoleni, S., and Bonanomi, G.: Linking organic matter
+chemistry with soil aggregate stability: Insight from 13C
+NMR spectroscopy, Soil Biol. Biochem., 117, 175–184,
+https://doi.org/10.1016/j.soilbio.2017.11.011, 2018.
+Schweizer, S. A., Bucka, F. B., Graf-Rosenfellner, M., and Kögel-
+Knabner, I.: Soil microaggregate size composition and organic
+matter distribution as affected by clay content, Geoderma, 355,
+113901, https://doi.org/10.1016/j.geoderma.2019.113901, 2019.
+Seybold, C. A. and Herrick, J. E.: Aggregate stability
+kit for soil quality assessments, CATENA, 44, 37–45,
+https://doi.org/10.1016/S0341-8162(00)00175-2, 2001.
+Six, J. and Paustian, K.: Aggregate-associated soil or-
+ganic matter as an ecosystem property and a mea-
+surement tool, Soil Biol. Biochem., 68, A4–A9,
+https://doi.org/10.1016/j.soilbio.2013.06.014, 2014.
+Six, J., Elliott, E. T., and Paustian, K.: Soil macroaggregate turnover
+and microaggregate formation: a mechanism for C sequestration
+under no-tillage agriculture, Soil Biol. Biochem., 32, 2099–2103,
+https://doi.org/10.1016/S0038-0717(00)00179-6, 2000.
+Stegarescu, G., Reintam, E., and Tõnutare, T.: Cover crop
+residues effect on soil structural stability and phos-
+phatase activity, Acta Agr. Scand. B-S. P., 71, 992–1005,
+https://doi.org/10.1080/09064710.2021.1973083, 2021.
+Thapa, V . R., Ghimire, R., Acosta-Martínez, V ., Marsalis, M. A.,
+and Schipanski, M. E.: Cover crop biomass and species com-
+position affect soil microbial community structure and enzyme
+activities in semiarid cropping systems, Appl. Soil Ecol., 157,
+103735, https://doi.org/10.1016/j.apsoil.2020.103735, 2021.
+Thorup-Kristensen, K., Magid, J., and Jensen, L. S.: Catch crops
+and green manures as biological tools in nitrogen management
+in temperate zones, Adv. Agron., 79, 227–302, 2003.
+Tisdall, J. M. and Oades, J. M.: Organic matter and water-
+stable aggregates in soils, J. Soil Sci., 33, 141–163,
+https://doi.org/10.1111/j.1365-2389.1982.tb01755.x, 1982.
+¸ Tî¸ tei, V .: The quality of fresh and ensiled biomass from white mus-
+tard, Sinapis alba, and its potential uses, 2002.
+Ulcuango, K., Navas, M., Centurión, N., Ibañez, M. Á., Honto-
+ria, C., and Mariscal-Sancho, I.: Interaction of Inherited Micro-
+biota from Cover Crops with Cash Crops, Agronomy, 11, 2199,
+https://doi.org/10.3390/agronomy11112199, 2021.
+Williams, N. D. and Petticrew, E. L.: Aggregate stability in or-
+ganically and conventionally farmed soils, Soil Use Manage.,
+25, 284–292, https://doi.org/10.1111/j.1475-2743.2009.00223.x,
+2009.
+Wright, S. F. and Anderson, R. L.: Aggregate stabil-
+ity and glomalin in alternative crop rotations for the
+central Great Plains, Biol. Fert. Soils, 31, 249–253,
+https://doi.org/10.1007/s003740050653, 2000.
+Zhou, M., Liu, C., Wang, J., Meng, Q., Yuan, Y ., Ma, X., Liu, X.,
+Zhu, Y ., Ding, G., Zhang, J., Zeng, X., and Du, W.: Soil aggre-
+gates stability and storage of soil organic carbon respond to crop-
+ping systems on Black Soils of Northeast China, Sci. Rep.-UK,
+10, 265, https://doi.org/10.1038/s41598-019-57193-1, 2020.
+SOIL, 10, 139–150, 2024 https://doi.org/10.5194/soil-10-139-2024

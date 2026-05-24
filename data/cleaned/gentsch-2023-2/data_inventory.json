@@ -1,0 +1,307 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "paper_id": "gentsch-2023-2",
+    "created_at": "2026-05-11T09:45:57Z",
+    "created_by_script": "dataset_builder/dtreg_dataset/etl/build_data_inventory.py",
+    "n_files": 1,
+    "skipped": false
+  },
+  "files": [
+    {
+      "relative_path": "CATCHY_aggregate_stability_2020_block2.csv",
+      "source_path": "D:/dataset_dtreg_v02/raw/gentsch-2023-2/gentsch-2023-2/submission/data/CATCHY_aggregate_stability_2020_block2.csv",
+      "sha256": "aefd9f2d60b49fe103bad590f699eaa0ef2c167fe43a323f856c235a3233ea62",
+      "size_bytes": 121245,
+      "format": "csv",
+      "encoding": "utf-8",
+      "delimiter": ",",
+      "n_rows": 378,
+      "n_columns": 37,
+      "columns": [
+        "No",
+        "ID",
+        "Site",
+        "Name",
+        "Plot",
+        "Subplot",
+        "Micro_plot",
+        "Block",
+        "Row",
+        "Date",
+        "year_ID",
+        "Sampling_ID",
+        "Year",
+        "Soil_depth",
+        "depth",
+        "crop_sampling",
+        "cc_variant",
+        "Fraction",
+        "long",
+        "lat",
+        "BD",
+        "Clay",
+        "Silt",
+        "Sand",
+        "OC",
+        "TN",
+        "CN_ratio",
+        "d13C",
+        "d15N",
+        "MWD_cor",
+        "GMD_cor",
+        "DS",
+        "DS_pc",
+        "OC_Frac",
+        "TN_Frac",
+        "OC_Frac_pc",
+        "TN_Frac_pc"
+      ],
+      "column_types": {
+        "No": "int",
+        "ID": "string",
+        "Site": "string",
+        "Name": "string",
+        "Plot": "int",
+        "Subplot": "int",
+        "Micro_plot": "string",
+        "Block": "int",
+        "Row": "int",
+        "Date": "datetime",
+        "year_ID": "string",
+        "Sampling_ID": "int",
+        "Year": "int",
+        "Soil_depth": "int",
+        "depth": "string",
+        "crop_sampling": "int",
+        "cc_variant": "int",
+        "Fraction": "string",
+        "long": "float",
+        "lat": "float",
+        "BD": "float",
+        "Clay": "float",
+        "Silt": "float",
+        "Sand": "float",
+        "OC": "string",
+        "TN": "string",
+        "CN_ratio": "string",
+        "d13C": "string",
+        "d15N": "string",
+        "MWD_cor": "string",
+        "GMD_cor": "string",
+        "DS": "string",
+        "DS_pc": "string",
+        "OC_Frac": "string",
+        "TN_Frac": "string",
+        "OC_Frac_pc": "string",
+        "TN_Frac_pc": "string"
+      },
+      "null_counts": {
+        "No": 0,
+        "ID": 0,
+        "Site": 0,
+        "Name": 0,
+        "Plot": 0,
+        "Subplot": 0,
+        "Micro_plot": 0,
+        "Block": 0,
+        "Row": 0,
+        "Date": 0,
+        "year_ID": 0,
+        "Sampling_ID": 0,
+        "Year": 0,
+        "Soil_depth": 0,
+        "depth": 0,
+        "crop_sampling": 0,
+        "cc_variant": 0,
+        "Fraction": 0,
+        "long": 0,
+        "lat": 0,
+        "BD": 0,
+        "Clay": 0,
+        "Silt": 0,
+        "Sand": 0,
+        "OC": 0,
+        "TN": 0,
+        "CN_ratio": 0,
+        "d13C": 0,
+        "d15N": 0,
+        "MWD_cor": 0,
+        "GMD_cor": 0,
+        "DS": 0,
+        "DS_pc": 0,
+        "OC_Frac": 0,
+        "TN_Frac": 0,
+        "OC_Frac_pc": 0,
+        "TN_Frac_pc": 0
+      },
+      "unique_counts": {
+        "No": 378,
+        "ID": 62,
+        "Site": 1,
+        "Name": 21,
+        "Plot": 21,
+        "Subplot": 1,
+        "Micro_plot": 1,
+        "Block": 1,
+        "Row": 3,
+        "Date": 1,
+        "year_ID": 1,
+        "Sampling_ID": 1,
+        "Year": 1,
+        "Soil_depth": 3,
+        "depth": 3,
+        "crop_sampling": 1,
+        "cc_variant": 7,
+        "Fraction": 6,
+        "long": 21,
+        "lat": 21,
+        "BD": 58,
+        "Clay": 63,
+        "Silt": 63,
+        "Sand": 63,
+        "OC": 320,
+        "TN": 106,
+        "CN_ratio": 375,
+        "d13C": 376,
+        "d15N": 378,
+        "MWD_cor": 64,
+        "GMD_cor": 64,
+        "DS": 285,
+        "DS_pc": 315,
+        "OC_Frac": 313,
+        "TN_Frac": 315,
+        "OC_Frac_pc": 313,
+        "TN_Frac_pc": 315
+      },
+      "min_max": {
+        "No": {
+          "min": 1.0,
+          "max": 378.0
+        },
+        "Plot": {
+          "min": 8.0,
+          "max": 42.0
+        },
+        "Subplot": {
+          "min": 1.0,
+          "max": 1.0
+        },
+        "Block": {
+          "min": 2.0,
+          "max": 2.0
+        },
+        "Row": {
+          "min": 1.0,
+          "max": 3.0
+        },
+        "Sampling_ID": {
+          "min": 1.0,
+          "max": 1.0
+        },
+        "Year": {
+          "min": 2020.0,
+          "max": 2020.0
+        },
+        "Soil_depth": {
+          "min": 1.0,
+          "max": 3.0
+        },
+        "crop_sampling": {
+          "min": 8.0,
+          "max": 8.0
+        },
+        "cc_variant": {
+          "min": 1.0,
+          "max": 7.0
+        },
+        "long": {
+          "min": 9.02435825164329,
+          "max": 9.02525701268894
+        },
+        "lat": {
+          "min": 52.7626754461593,
+          "max": 52.7631941530699
+        },
+        "BD": {
+          "min": 0.949,
+          "max": 1.913
+        },
+        "Clay": {
+          "min": 3.9330296804647,
+          "max": 12.9414882786904
+        },
+        "Silt": {
+          "min": 63.4020721224934,
+          "max": 78.3847366186926
+        },
+        "Sand": {
+          "min": 16.3343996079515,
+          "max": 28.4989481430386
+        }
+      },
+      "sample_values": {
+        "Site": [
+          "A"
+        ],
+        "Subplot": [
+          "1"
+        ],
+        "Micro_plot": [
+          "NA"
+        ],
+        "Block": [
+          "2"
+        ],
+        "Row": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Date": [
+          "2020-10-19"
+        ],
+        "year_ID": [
+          "20-3"
+        ],
+        "Sampling_ID": [
+          "1"
+        ],
+        "Year": [
+          "2020"
+        ],
+        "Soil_depth": [
+          "1",
+          "2",
+          "3"
+        ],
+        "depth": [
+          "0-10",
+          "20-30",
+          "30-40"
+        ],
+        "crop_sampling": [
+          "8"
+        ],
+        "cc_variant": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "Fraction": [
+          "16-8",
+          "2-1",
+          "4-2",
+          "8-4",
+          "<1",
+          "bulk"
+        ]
+      },
+      "prompt_summary": "CATCHY_aggregate_stability_2020_block2.csv (csv, 378 rows × 37 cols): No(int, [1..378]), ID(string), Site(string, 1 unique: ['A']), Name(string), Plot(int, [8..42]), Subplot(int, [1..1]), Micro_plot(string, 1 unique: ['NA']), Block(int, [2..2]), ... +29 more"
+    }
+  ]
+}

@@ -1,0 +1,5267 @@
+{
+  "@id": "_:n1",
+  "@type": "doi:feeb33ad3e4440682a4d",
+  "doi:feeb33ad3e4440682a4d#is_implemented_by": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/cbc1f14e-e793-4f45-b5e5-8c80254860e5/download/hars7q2a.r",
+  "doi:feeb33ad3e4440682a4d#has_part": {
+    "@id": "_:n2",
+    "@type": "doi:5b66cb584b974b186f37",
+    "doi:5b66cb584b974b186f37#has_output": {
+      "@id": "_:n3",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_expression": {
+        "@id": "_:n4",
+        "@type": "doi:1f20e66b17a6eb7c2baf",
+        "doi:1f20e66b17a6eb7c2baf#source_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/61ebb67f-d1f9-42ea-8e0f-ef6b0db550c2/download/wp6qf9rx.png"
+      },
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n5",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 8,
+        "doi:31483624b5c80014b6c7#number_of_rows": 90
+      },
+      "doi:aff130c76e68ead3862e#has_part": [
+        {
+          "@id": "_:n6",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "cc_variant"
+        },
+        {
+          "@id": "_:n7",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "depth"
+        },
+        {
+          "@id": "_:n8",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "Fraction"
+        },
+        {
+          "@id": "_:n9",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_ratio.m"
+        },
+        {
+          "@id": "_:n10",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_ratio.se"
+        },
+        {
+          "@id": "_:n11",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_Frac_pc"
+        },
+        {
+          "@id": "_:n12",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_Frac_pc.fal"
+        },
+        {
+          "@id": "_:n13",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_ratio.fal"
+        }
+      ],
+      "doi:aff130c76e68ead3862e#source_table": {
+        "@type": "doi:0424f6e7026fa4bc2c4a",
+        "tab_label": "Table",
+        "columns": [
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 1,
+            "col_titles": "cc_variant",
+            "@id": "_:n14"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 2,
+            "col_titles": "depth",
+            "@id": "_:n15"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 3,
+            "col_titles": "Fraction",
+            "@id": "_:n16"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 4,
+            "col_titles": "OC_ratio.m",
+            "@id": "_:n17"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 5,
+            "col_titles": "OC_ratio.se",
+            "@id": "_:n18"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 6,
+            "col_titles": "OC_Frac_pc",
+            "@id": "_:n19"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 7,
+            "col_titles": "OC_Frac_pc.fal",
+            "@id": "_:n20"
+          },
+          {
+            "@type": "doi:65ba00e95e60fb8971e6",
+            "col_number": 8,
+            "col_titles": "OC_ratio.fal",
+            "@id": "_:n21"
+          }
+        ],
+        "rows": [
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 1,
+            "row_titles": "1",
+            "@id": "_:n22",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n23",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n24",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n25",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n26",
+                "value": "98.3844146865413",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n27",
+                "value": "3.97650226545588",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n28",
+                "value": "71.7874402975763",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n29",
+                "value": "69.9648186593361",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n30",
+                "value": "101.82262163824",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 2,
+            "row_titles": "2",
+            "@id": "_:n31",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n32",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n33",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n34",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n35",
+                "value": "86.4626899359186",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n36",
+                "value": "6.62719140124324",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n37",
+                "value": "10.3738651907209",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n38",
+                "value": "11.4193844310946",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n39",
+                "value": "98.9544807596263",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 3,
+            "row_titles": "3",
+            "@id": "_:n40",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n41",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n42",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n43",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n44",
+                "value": "91.4895769500228",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n45",
+                "value": "2.89064327293449",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n46",
+                "value": "9.74144665802457",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n47",
+                "value": "10.1248819761701",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n48",
+                "value": "99.6165646818545",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 4,
+            "row_titles": "4",
+            "@id": "_:n49",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n50",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n51",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n52",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n53",
+                "value": "80.179327313764",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n54",
+                "value": "7.96623578257205",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n55",
+                "value": "6.771927400681",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n56",
+                "value": "8.11336815387892",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n57",
+                "value": "98.6585592468021",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 5,
+            "row_titles": "5",
+            "@id": "_:n58",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n59",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n60",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n61",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n62",
+                "value": "132.345597976651",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n63",
+                "value": "6.11664262406956",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n64",
+                "value": "1.32532045299718",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n65",
+                "value": "1.132640338561",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n66",
+                "value": "100.192680114436",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 6,
+            "row_titles": "6",
+            "@id": "_:n67",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n68",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n69",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n70",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n71",
+                "value": "93.729942557908",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n72",
+                "value": "7.19030251006801",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n73",
+                "value": "67.0975581572835",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n74",
+                "value": "68.0896097021151",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n75",
+                "value": "99.0079484551683",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 7,
+            "row_titles": "7",
+            "@id": "_:n76",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n77",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n78",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n79",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n80",
+                "value": "97.4993608022433",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n81",
+                "value": "3.60280500401132",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n82",
+                "value": "11.208719597661",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n83",
+                "value": "10.8559438652143",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n84",
+                "value": "100.352775732447",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 8,
+            "row_titles": "8",
+            "@id": "_:n85",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n86",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n87",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n88",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n89",
+                "value": "94.1808612741837",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n90",
+                "value": "8.43393687556659",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n91",
+                "value": "10.8684643937992",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n92",
+                "value": "10.887222651846",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n93",
+                "value": "99.9812417419532",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 9,
+            "row_titles": "9",
+            "@id": "_:n94",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n95",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n96",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n97",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n98",
+                "value": "101.476885771438",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n99",
+                "value": "12.9531420649952",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n100",
+                "value": "8.90394307847985",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n101",
+                "value": "8.19350330547722",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n102",
+                "value": "100.710439773003",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 10,
+            "row_titles": "10",
+            "@id": "_:n103",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n104",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n105",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n106",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n107",
+                "value": "96.4742929763129",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n108",
+                "value": "41.3951804579306",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n109",
+                "value": "1.92131477277645",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n110",
+                "value": "1.97372047534731",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n111",
+                "value": "99.9475942974291",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 11,
+            "row_titles": "11",
+            "@id": "_:n112",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n113",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n114",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n115",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n116",
+                "value": "97.9558885527484",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n117",
+                "value": "9.13824060517658",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n118",
+                "value": "63.5313439972729",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n119",
+                "value": "64.6989244838242",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n120",
+                "value": "98.8324195134488",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 12,
+            "row_titles": "12",
+            "@id": "_:n121",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n122",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n123",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n124",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n125",
+                "value": "100.774896218196",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n126",
+                "value": "9.62854315495344",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n127",
+                "value": "11.5536886654759",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n128",
+                "value": "11.4148513068198",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n129",
+                "value": "100.138837358656",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 13,
+            "row_titles": "13",
+            "@id": "_:n130",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n131",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n132",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n133",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n134",
+                "value": "97.9891094190446",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n135",
+                "value": "5.18073633056688",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n136",
+                "value": "10.8234732753956",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n137",
+                "value": "10.8518394476656",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n138",
+                "value": "99.9716338277301",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 14,
+            "row_titles": "14",
+            "@id": "_:n139",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n140",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n141",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n142",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n143",
+                "value": "110.706418469025",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n144",
+                "value": "6.39627088194992",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n145",
+                "value": "11.4877581145751",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n146",
+                "value": "10.0117672489068",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n147",
+                "value": "101.475990865668",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 15,
+            "row_titles": "15",
+            "@id": "_:n148",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n149",
+                "value": "Mustard",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n150",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n151",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n152",
+                "value": "84.9767537367366",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n153",
+                "value": "30.3442736694557",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n154",
+                "value": "2.60373594728039",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n155",
+                "value": "3.02261751278359",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n156",
+                "value": "99.5811184344968",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 16,
+            "row_titles": "16",
+            "@id": "_:n157",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n158",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n159",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n160",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n161",
+                "value": "100.010194004095",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n162",
+                "value": "6.86979946067922",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n163",
+                "value": "72.6386849324937",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n164",
+                "value": "69.9648186593361",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n165",
+                "value": "102.673866273158",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 17,
+            "row_titles": "17",
+            "@id": "_:n166",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n167",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n168",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n169",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n170",
+                "value": "83.9779668753725",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n171",
+                "value": "9.81313049400723",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n172",
+                "value": "10.0129464607043",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n173",
+                "value": "11.4193844310946",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n174",
+                "value": "98.5935620296097",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 18,
+            "row_titles": "18",
+            "@id": "_:n175",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n176",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n177",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n178",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n179",
+                "value": "82.8495957620073",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n180",
+                "value": "2.71812052785558",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n181",
+                "value": "8.81011066888171",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n182",
+                "value": "10.1248819761701",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n183",
+                "value": "98.6852286927116",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 19,
+            "row_titles": "19",
+            "@id": "_:n184",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n185",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n186",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n187",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n188",
+                "value": "74.0071614724022",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n189",
+                "value": "7.62574684225412",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n190",
+                "value": "6.2882457148233",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n191",
+                "value": "8.11336815387892",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n192",
+                "value": "98.1748775609444",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 20,
+            "row_titles": "20",
+            "@id": "_:n193",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n194",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n195",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n196",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n197",
+                "value": "217.5610017735",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n198",
+                "value": "54.1565196601244",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n199",
+                "value": "2.25001222309698",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n200",
+                "value": "1.132640338561",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n201",
+                "value": "101.117371884536",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 21,
+            "row_titles": "21",
+            "@id": "_:n202",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n203",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n204",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n205",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n206",
+                "value": "92.9334695898683",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n207",
+                "value": "13.6962657556963",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n208",
+                "value": "69.4383874116764",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n209",
+                "value": "68.0896097021151",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n210",
+                "value": "101.348777709561",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 22,
+            "row_titles": "22",
+            "@id": "_:n211",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n212",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n213",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n214",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n215",
+                "value": "90.2979429393084",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n216",
+                "value": "13.7453555501445",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n217",
+                "value": "10.7661994582242",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n218",
+                "value": "10.8559438652143",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n219",
+                "value": "99.9102555930099",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 23,
+            "row_titles": "23",
+            "@id": "_:n220",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n221",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n222",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n223",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n224",
+                "value": "84.1617823257813",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n225",
+                "value": "8.38076417753036",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n226",
+                "value": "10.2275853015385",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n227",
+                "value": "10.887222651846",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n228",
+                "value": "99.3403626496925",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 24,
+            "row_titles": "24",
+            "@id": "_:n229",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n230",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n231",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n232",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n233",
+                "value": "87.8391341615199",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n234",
+                "value": "7.98669320908368",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n235",
+                "value": "8.08313060849549",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n236",
+                "value": "8.19350330547722",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n237",
+                "value": "99.8896273030183",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 25,
+            "row_titles": "25",
+            "@id": "_:n238",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n239",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n240",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n241",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n242",
+                "value": "66.8128408169662",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n243",
+                "value": "4.20040384884739",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n244",
+                "value": "1.48469722006543",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n245",
+                "value": "1.97372047534731",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n246",
+                "value": "99.5109767447181",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 26,
+            "row_titles": "26",
+            "@id": "_:n247",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n248",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n249",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n250",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n251",
+                "value": "96.3550843450975",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n252",
+                "value": "9.59411865869703",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n253",
+                "value": "65.3385969499237",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n254",
+                "value": "64.6989244838242",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n255",
+                "value": "100.6396724661",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 27,
+            "row_titles": "27",
+            "@id": "_:n256",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n257",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n258",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n259",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n260",
+                "value": "93.0686460925397",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n261",
+                "value": "15.8288195390013",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n262",
+                "value": "10.9337878656549",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n263",
+                "value": "11.4148513068198",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n264",
+                "value": "99.518936558835",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 28,
+            "row_titles": "28",
+            "@id": "_:n265",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n266",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n267",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n268",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n269",
+                "value": "97.6492462929935",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n270",
+                "value": "16.4044900524799",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n271",
+                "value": "10.9404001784677",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n272",
+                "value": "10.8518394476656",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n273",
+                "value": "100.088560730802",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 29,
+            "row_titles": "29",
+            "@id": "_:n274",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n275",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n276",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n277",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n278",
+                "value": "84.5665214400352",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n279",
+                "value": "13.0221423361026",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n280",
+                "value": "8.94553620095475",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n281",
+                "value": "10.0117672489068",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n282",
+                "value": "98.9337689520479",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 30,
+            "row_titles": "30",
+            "@id": "_:n283",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n284",
+                "value": "Clover",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n285",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n286",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n287",
+                "value": "119.359867977527",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n288",
+                "value": "41.7217774003521",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n289",
+                "value": "3.84167880499904",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n290",
+                "value": "3.02261751278359",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n291",
+                "value": "100.819061292215",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 31,
+            "row_titles": "31",
+            "@id": "_:n292",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n293",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n294",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n295",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n296",
+                "value": "110.850095278353",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n297",
+                "value": "8.7128278867799",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n298",
+                "value": "74.5992387234939",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n299",
+                "value": "69.9648186593361",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n300",
+                "value": "104.634420064158",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 32,
+            "row_titles": "32",
+            "@id": "_:n301",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n302",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n303",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n304",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n305",
+                "value": "87.6728566519787",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n306",
+                "value": "3.56418552994589",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n307",
+                "value": "9.78014599620824",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n308",
+                "value": "11.4193844310946",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n309",
+                "value": "98.3607615651137",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 33,
+            "row_titles": "33",
+            "@id": "_:n310",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n311",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n312",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n313",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n314",
+                "value": "85.0250499210463",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n315",
+                "value": "1.19033951863397",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n316",
+                "value": "8.43071863231641",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n317",
+                "value": "10.1248819761701",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n318",
+                "value": "98.3058366561463",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 34,
+            "row_titles": "34",
+            "@id": "_:n319",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n320",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n321",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n322",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n323",
+                "value": "71.407972528041",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n324",
+                "value": "2.84746856082223",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n325",
+                "value": "5.6575008736224",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n326",
+                "value": "8.11336815387892",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n327",
+                "value": "97.5441327197435",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 35,
+            "row_titles": "35",
+            "@id": "_:n328",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n329",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n330",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n331",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n332",
+                "value": "171.969703751391",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n333",
+                "value": "65.8060817321354",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n334",
+                "value": "1.53239577435909",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n335",
+                "value": "1.132640338561",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n336",
+                "value": "100.399755435798",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 36,
+            "row_titles": "36",
+            "@id": "_:n337",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n338",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n339",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n340",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n341",
+                "value": "90.6173389787775",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n342",
+                "value": "13.4131403333976",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n343",
+                "value": "67.9161020460792",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n344",
+                "value": "68.0896097021151",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n345",
+                "value": "99.826492343964",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 37,
+            "row_titles": "37",
+            "@id": "_:n346",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n347",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n348",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n349",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n350",
+                "value": "90.5969437883556",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n351",
+                "value": "9.88147379216288",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n352",
+                "value": "10.9686091423421",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n353",
+                "value": "10.8559438652143",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n354",
+                "value": "100.112665277128",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 38,
+            "row_titles": "38",
+            "@id": "_:n355",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n356",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n357",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n358",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n359",
+                "value": "84.5144978187668",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n360",
+                "value": "10.8141940505507",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n361",
+                "value": "10.3397202338772",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n362",
+                "value": "10.887222651846",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n363",
+                "value": "99.4524975820312",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 39,
+            "row_titles": "39",
+            "@id": "_:n364",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n365",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n366",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n367",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n368",
+                "value": "98.4021758521785",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n369",
+                "value": "9.50513547005807",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n370",
+                "value": "9.03797979382059",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n371",
+                "value": "8.19350330547722",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n372",
+                "value": "100.844476488343",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 40,
+            "row_titles": "40",
+            "@id": "_:n373",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n374",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n375",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n376",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n377",
+                "value": "82.4744631415913",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n378",
+                "value": "48.2664571114435",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n379",
+                "value": "1.73758878388094",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n380",
+                "value": "1.97372047534731",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n381",
+                "value": "99.7638683085336",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 41,
+            "row_titles": "41",
+            "@id": "_:n382",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n383",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n384",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n385",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n386",
+                "value": "116.177081142506",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n387",
+                "value": "10.0333688719447",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n388",
+                "value": "67.9840328357294",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n389",
+                "value": "64.6989244838242",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n390",
+                "value": "103.285108351905",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 42,
+            "row_titles": "42",
+            "@id": "_:n391",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n392",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n393",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n394",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n395",
+                "value": "103.025557336043",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n396",
+                "value": "8.15110565939014",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n397",
+                "value": "10.6724964932522",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n398",
+                "value": "11.4148513068198",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n399",
+                "value": "99.2576451864324",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 43,
+            "row_titles": "43",
+            "@id": "_:n400",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n401",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n402",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n403",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n404",
+                "value": "107.093471353795",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n405",
+                "value": "18.8787068283853",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n406",
+                "value": "10.3657826503604",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n407",
+                "value": "10.8518394476656",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n408",
+                "value": "99.5139432026948",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 44,
+            "row_titles": "44",
+            "@id": "_:n409",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n410",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n411",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n412",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n413",
+                "value": "90.9392667624385",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n414",
+                "value": "27.529413656832",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n415",
+                "value": "8.04997972914492",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n416",
+                "value": "10.0117672489068",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n417",
+                "value": "98.0382124802381",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 45,
+            "row_titles": "45",
+            "@id": "_:n418",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n419",
+                "value": "Oat",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n420",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n421",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n422",
+                "value": "99.5211126359561",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n423",
+                "value": "24.7890974092764",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n424",
+                "value": "2.92770829151305",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n425",
+                "value": "3.02261751278359",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n426",
+                "value": "99.9050907787295",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 46,
+            "row_titles": "46",
+            "@id": "_:n427",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n428",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n429",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n430",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n431",
+                "value": "104.897227486071",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n432",
+                "value": "4.20518335926827",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n433",
+                "value": "73.0740324904921",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n434",
+                "value": "69.9648186593361",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n435",
+                "value": "103.109213831156",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 47,
+            "row_titles": "47",
+            "@id": "_:n436",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n437",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n438",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n439",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n440",
+                "value": "87.5262837076553",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n441",
+                "value": "8.56301822272405",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n442",
+                "value": "9.98832077651843",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n443",
+                "value": "11.4193844310946",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n444",
+                "value": "98.5689363454239",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 48,
+            "row_titles": "48",
+            "@id": "_:n445",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n446",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n447",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n448",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n449",
+                "value": "91.7861026445411",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n450",
+                "value": "8.82098971130141",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n451",
+                "value": "9.26640740644704",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n452",
+                "value": "10.1248819761701",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n453",
+                "value": "99.1415254302769",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 49,
+            "row_titles": "49",
+            "@id": "_:n454",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n455",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n456",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n457",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n458",
+                "value": "82.4258937194676",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n459",
+                "value": "9.91367544471282",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n460",
+                "value": "6.65869231729635",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n461",
+                "value": "8.11336815387892",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n462",
+                "value": "98.5453241634174",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 50,
+            "row_titles": "50",
+            "@id": "_:n463",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n464",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n465",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n466",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n467",
+                "value": "106.898428754505",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n468",
+                "value": "47.4518103528174",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n469",
+                "value": "1.01254700924608",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n470",
+                "value": "1.132640338561",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n471",
+                "value": "99.8799066706851",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 51,
+            "row_titles": "51",
+            "@id": "_:n472",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n473",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n474",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n475",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n476",
+                "value": "95.825016308721",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n477",
+                "value": "7.81496469472483",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n478",
+                "value": "67.3502390871703",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n479",
+                "value": "68.0896097021151",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n480",
+                "value": "99.2606293850552",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 52,
+            "row_titles": "52",
+            "@id": "_:n481",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n482",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n483",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n484",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n485",
+                "value": "109.685257645252",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n486",
+                "value": "7.29903652838736",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n487",
+                "value": "12.3597574980168",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n488",
+                "value": "10.8559438652143",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n489",
+                "value": "101.503813632802",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 53,
+            "row_titles": "53",
+            "@id": "_:n490",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n491",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n492",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n493",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n494",
+                "value": "99.8776737763241",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n495",
+                "value": "4.7775444771214",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n496",
+                "value": "11.3210349261213",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n497",
+                "value": "10.887222651846",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n498",
+                "value": "100.433812274275",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 54,
+            "row_titles": "54",
+            "@id": "_:n499",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n500",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n501",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n502",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n503",
+                "value": "88.6016996266044",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n504",
+                "value": "13.2835332255046",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n505",
+                "value": "7.64035612611755",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n506",
+                "value": "8.19350330547722",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n507",
+                "value": "99.4468528206403",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 55,
+            "row_titles": "55",
+            "@id": "_:n508",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n509",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n510",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n511",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n512",
+                "value": "64.493588698177",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n513",
+                "value": "10.8700480692841",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n514",
+                "value": "1.32861236257411",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n515",
+                "value": "1.97372047534731",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n516",
+                "value": "99.3548918872268",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 56,
+            "row_titles": "56",
+            "@id": "_:n517",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n518",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n519",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n520",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n521",
+                "value": "100.54023359897",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n522",
+                "value": "7.53297424352322",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n523",
+                "value": "63.7202218472404",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n524",
+                "value": "64.6989244838242",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n525",
+                "value": "99.0212973634162",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 57,
+            "row_titles": "57",
+            "@id": "_:n526",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n527",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n528",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n529",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n530",
+                "value": "100.758558345676",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n531",
+                "value": "8.40587676119997",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n532",
+                "value": "11.2709409151214",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n533",
+                "value": "11.4148513068198",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n534",
+                "value": "99.8560896083016",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 58,
+            "row_titles": "58",
+            "@id": "_:n535",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n536",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n537",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n538",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n539",
+                "value": "109.164702892508",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n540",
+                "value": "9.76659941204322",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n541",
+                "value": "11.6039199212515",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n542",
+                "value": "10.8518394476656",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n543",
+                "value": "100.752080473586",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 59,
+            "row_titles": "59",
+            "@id": "_:n544",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n545",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n546",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n547",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n548",
+                "value": "105.481053858246",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n549",
+                "value": "7.05722324511788",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n550",
+                "value": "10.5651752567053",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n551",
+                "value": "10.0117672489068",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n552",
+                "value": "100.553408007798",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 60,
+            "row_titles": "60",
+            "@id": "_:n553",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n554",
+                "value": "Phacelia",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n555",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n556",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n557",
+                "value": "91.1577268433363",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n558",
+                "value": "26.9933071437096",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n559",
+                "value": "2.83974205968137",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n560",
+                "value": "3.02261751278359",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n561",
+                "value": "99.8171245468978",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 61,
+            "row_titles": "61",
+            "@id": "_:n562",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n563",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n564",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n565",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n566",
+                "value": "96.8387227661697",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n567",
+                "value": "8.53079635572886",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n568",
+                "value": "69.0192759180148",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n569",
+                "value": "69.9648186593361",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n570",
+                "value": "99.0544572586786",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 62,
+            "row_titles": "62",
+            "@id": "_:n571",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n572",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n573",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n574",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n575",
+                "value": "91.9252067308083",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n576",
+                "value": "4.4755183723058",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n577",
+                "value": "10.9380753047879",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n578",
+                "value": "11.4193844310946",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n579",
+                "value": "99.5186908736934",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 63,
+            "row_titles": "63",
+            "@id": "_:n580",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n581",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n582",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n583",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n584",
+                "value": "102.338335470565",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n585",
+                "value": "10.2669352035105",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n586",
+                "value": "10.5864808248299",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n587",
+                "value": "10.1248819761701",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n588",
+                "value": "100.46159884866",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 64,
+            "row_titles": "64",
+            "@id": "_:n589",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n590",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n591",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n592",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n593",
+                "value": "76.1262723500951",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n594",
+                "value": "39.0301760787661",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n595",
+                "value": "5.9999837739879",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n596",
+                "value": "8.11336815387892",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n597",
+                "value": "97.886615620109",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 65,
+            "row_titles": "65",
+            "@id": "_:n598",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n599",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n600",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n601",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n602",
+                "value": "356.226414561585",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n603",
+                "value": "160.783785938616",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n604",
+                "value": "3.45618417837948",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n605",
+                "value": "1.132640338561",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n606",
+                "value": "102.323543839818",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 66,
+            "row_titles": "66",
+            "@id": "_:n607",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n608",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n609",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n610",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n611",
+                "value": "98.3889791786364",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n612",
+                "value": "2.82635882402299",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n613",
+                "value": "68.0035333677871",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n614",
+                "value": "68.0896097021151",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n615",
+                "value": "99.9139236656719",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 67,
+            "row_titles": "67",
+            "@id": "_:n616",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n617",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n618",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n619",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n620",
+                "value": "105.19633783333",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n621",
+                "value": "11.0328208056152",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n622",
+                "value": "11.5070428653558",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n623",
+                "value": "10.8559438652143",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n624",
+                "value": "100.651099000142",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 68,
+            "row_titles": "68",
+            "@id": "_:n625",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n626",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n627",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n628",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n629",
+                "value": "92.4685609651145",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n630",
+                "value": "15.2700073792526",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n631",
+                "value": "10.0511919338546",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n632",
+                "value": "10.887222651846",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n633",
+                "value": "99.1639692820087",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 69,
+            "row_titles": "69",
+            "@id": "_:n634",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n635",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n636",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n637",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n638",
+                "value": "106.049971007394",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n639",
+                "value": "15.7547605427579",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n640",
+                "value": "8.6786591107762",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n641",
+                "value": "8.19350330547722",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n642",
+                "value": "100.485155805299",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 70,
+            "row_titles": "70",
+            "@id": "_:n643",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n644",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n645",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n646",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n647",
+                "value": "90.9530413020848",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n648",
+                "value": "24.220310340574",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n649",
+                "value": "1.7595727222263",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n650",
+                "value": "1.97372047534731",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n651",
+                "value": "99.785852246879",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 71,
+            "row_titles": "71",
+            "@id": "_:n652",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n653",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n654",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n655",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n656",
+                "value": "104.1000737204",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n657",
+                "value": "14.8922906510006",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n658",
+                "value": "65.0429471774097",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n659",
+                "value": "64.6989244838242",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n660",
+                "value": "100.344022693586",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 72,
+            "row_titles": "72",
+            "@id": "_:n661",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n662",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n663",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n664",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n665",
+                "value": "105.327056058529",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n666",
+                "value": "14.7212826943492",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n667",
+                "value": "11.6368543895066",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n668",
+                "value": "11.4148513068198",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n669",
+                "value": "100.222003082687",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 73,
+            "row_titles": "73",
+            "@id": "_:n670",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n671",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n672",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n673",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n674",
+                "value": "107.993081167452",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n675",
+                "value": "10.2618114181523",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n676",
+                "value": "11.5443367567668",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n677",
+                "value": "10.8518394476656",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n678",
+                "value": "100.692497309101",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 74,
+            "row_titles": "74",
+            "@id": "_:n679",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n680",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n681",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n682",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n683",
+                "value": "99.7495776761791",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n684",
+                "value": "10.3111272894012",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n685",
+                "value": "10.070158256316",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n686",
+                "value": "10.0117672489068",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n687",
+                "value": "100.058391007409",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 75,
+            "row_titles": "75",
+            "@id": "_:n688",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n689",
+                "value": "Mix4",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n690",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n691",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n692",
+                "value": "57.238347448297",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n693",
+                "value": "13.5578658161306",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n694",
+                "value": "1.70570342000088",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n695",
+                "value": "3.02261751278359",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n696",
+                "value": "98.6830859072173",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 76,
+            "row_titles": "76",
+            "@id": "_:n697",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n698",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n699",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n700",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n701",
+                "value": "100.612578790244",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n702",
+                "value": "10.0183811268107",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n703",
+                "value": "68.9697608774218",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n704",
+                "value": "69.9648186593361",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n705",
+                "value": "99.0049422180856",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 77,
+            "row_titles": "77",
+            "@id": "_:n706",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n707",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n708",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n709",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n710",
+                "value": "105.90440970542",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n711",
+                "value": "12.1009096959055",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n712",
+                "value": "11.9276735540854",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n713",
+                "value": "11.4193844310946",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n714",
+                "value": "100.508289122991",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 78,
+            "row_titles": "78",
+            "@id": "_:n715",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n716",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n717",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n718",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n719",
+                "value": "90.8866897942852",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n720",
+                "value": "8.05675726164793",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n721",
+                "value": "9.31160554278829",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n722",
+                "value": "10.1248819761701",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n723",
+                "value": "99.1867235666182",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 79,
+            "row_titles": "79",
+            "@id": "_:n724",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n725",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n726",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n727",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n728",
+                "value": "96.329612085858",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n729",
+                "value": "4.63087378672559",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n730",
+                "value": "7.83375962427019",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n731",
+                "value": "8.11336815387892",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n732",
+                "value": "99.7203914703913",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 80,
+            "row_titles": "80",
+            "@id": "_:n733",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n734",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n735",
+                "value": "0-10 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n736",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n737",
+                "value": "212.442173115895",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n738",
+                "value": "53.9245788022921",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n739",
+                "value": "1.95720040143433",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n740",
+                "value": "1.132640338561",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n741",
+                "value": "100.824560062873",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 81,
+            "row_titles": "81",
+            "@id": "_:n742",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n743",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n744",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n745",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n746",
+                "value": "97.8743125970235",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n747",
+                "value": "10.1347934247858",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n748",
+                "value": "65.4507662122768",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n749",
+                "value": "68.0896097021151",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n750",
+                "value": "97.3611565101616",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 82,
+            "row_titles": "82",
+            "@id": "_:n751",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n752",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n753",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n754",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n755",
+                "value": "101.897170978829",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n756",
+                "value": "6.31654618477567",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n757",
+                "value": "11.011030039868",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n758",
+                "value": "10.8559438652143",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n759",
+                "value": "100.155086174654",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 83,
+            "row_titles": "83",
+            "@id": "_:n760",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n761",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n762",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n763",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n764",
+                "value": "101.136121355668",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n765",
+                "value": "3.64517742961368",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n766",
+                "value": "10.9596472338323",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n767",
+                "value": "10.887222651846",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n768",
+                "value": "100.072424581986",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 84,
+            "row_titles": "84",
+            "@id": "_:n769",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n770",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n771",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n772",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n773",
+                "value": "122.194221874927",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n774",
+                "value": "2.29868697186345",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n775",
+                "value": "9.97492742609704",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n776",
+                "value": "8.19350330547722",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n777",
+                "value": "101.78142412062",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 85,
+            "row_titles": "85",
+            "@id": "_:n778",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n779",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n780",
+                "value": "20-30 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n781",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n782",
+                "value": "132.544695237399",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n783",
+                "value": "41.4866865662702",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n784",
+                "value": "2.60362908792603",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n785",
+                "value": "1.97372047534731",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n786",
+                "value": "100.629908612579",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 86,
+            "row_titles": "86",
+            "@id": "_:n787",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n788",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n789",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n790",
+                "value": "<1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n791",
+                "value": "93.8545898968045",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n792",
+                "value": "3.71509090002561",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n793",
+                "value": "61.3611402321179",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n794",
+                "value": "64.6989244838242",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n795",
+                "value": "96.6622157482937",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 87,
+            "row_titles": "87",
+            "@id": "_:n796",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n797",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n798",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n799",
+                "value": "2-1",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n800",
+                "value": "95.9152139056059",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n801",
+                "value": "7.64500332766709",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n802",
+                "value": "11.0676770829542",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n803",
+                "value": "11.4148513068198",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n804",
+                "value": "99.6528257761344",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 88,
+            "row_titles": "88",
+            "@id": "_:n805",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n806",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n807",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n808",
+                "value": "4-2",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n809",
+                "value": "132.304582222873",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n810",
+                "value": "41.6073802116125",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n811",
+                "value": "13.9772374607172",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n812",
+                "value": "10.8518394476656",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n813",
+                "value": "103.125398013052",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 89,
+            "row_titles": "89",
+            "@id": "_:n814",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n815",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n816",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n817",
+                "value": "8-4",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n818",
+                "value": "110.876633490598",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n819",
+                "value": "6.48573052958693",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n820",
+                "value": "11.482292266647",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n821",
+                "value": "10.0117672489068",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n822",
+                "value": "101.47052501774",
+                "column": "_:n21"
+              }
+            ]
+          },
+          {
+            "@type": "doi:9bf7a8e8909bfd491b38",
+            "row_number": 90,
+            "row_titles": "90",
+            "@id": "_:n823",
+            "cells": [
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n824",
+                "value": "Mix12",
+                "column": "_:n14"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n825",
+                "value": "30-40 cm",
+                "column": "_:n15"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n826",
+                "value": "16-8",
+                "column": "_:n16"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n827",
+                "value": "66.7362957665105",
+                "column": "_:n17"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n828",
+                "value": "25.545285919814",
+                "column": "_:n18"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n829",
+                "value": "2.11165295756363",
+                "column": "_:n19"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n830",
+                "value": "3.02261751278359",
+                "column": "_:n20"
+              },
+              {
+                "@type": "doi:4607bc7c42ac8db29bfc",
+                "@id": "_:n831",
+                "value": "99.0890354447801",
+                "column": "_:n21"
+              }
+            ]
+          }
+        ],
+        "@id": "_:n832"
+      },
+      "doi:aff130c76e68ead3862e#label": "Relative proportion of organic carbon in different soil fractions in percentage of fallow level."
+    },
+    "doi:5b66cb584b974b186f37#has_input": {
+      "@id": "_:n833",
+      "@type": "doi:aff130c76e68ead3862e",
+      "doi:aff130c76e68ead3862e#has_characteristic": {
+        "@id": "_:n834",
+        "@type": "doi:31483624b5c80014b6c7",
+        "doi:31483624b5c80014b6c7#number_of_columns": 11,
+        "doi:31483624b5c80014b6c7#number_of_rows": 315
+      },
+      "doi:aff130c76e68ead3862e#has_part": [
+        {
+          "@id": "_:n835",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "depth"
+        },
+        {
+          "@id": "_:n836",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "Fraction"
+        },
+        {
+          "@id": "_:n837",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "cc_variant"
+        },
+        {
+          "@id": "_:n838",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "Plot"
+        },
+        {
+          "@id": "_:n839",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_Frac"
+        },
+        {
+          "@id": "_:n840",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_Frac_pc"
+        },
+        {
+          "@id": "_:n841",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "cc_variant.fal"
+        },
+        {
+          "@id": "_:n842",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_Frac.fal"
+        },
+        {
+          "@id": "_:n843",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_Frac_pc.fal"
+        },
+        {
+          "@id": "_:n844",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_ratio.pc"
+        },
+        {
+          "@id": "_:n845",
+          "@type": "doi:cceac5fb8acf5ade2bf5",
+          "doi:cceac5fb8acf5ade2bf5#label": "OC_ratio.fal"
+        }
+      ],
+      "doi:aff130c76e68ead3862e#source_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/0c44d6eb-bdcc-4791-8235-3f45bd818f2f/download/1nuwo314.csv"
+    },
+    "doi:5b66cb584b974b186f37#executes": {
+      "@id": "_:n846",
+      "@type": "doi:abef9f1c0d48853f3e51",
+      "doi:abef9f1c0d48853f3e51#has_support_url": "https://search.r-project.org/CRAN/refmans/dplyr/html/summarise.html",
+      "doi:abef9f1c0d48853f3e51#is_implemented_by": "summarise(OC_ratio.m = mean(OC_ratio.pc), \n  OC_ratio.se = se(OC_ratio.pc), \n  OC_Frac_pc = mean(OC_Frac_pc), \n  OC_Frac_pc.fal = mean(OC_Frac_pc.fal), \n  OC_ratio.fal = mean(OC_ratio.fal))",
+      "doi:abef9f1c0d48853f3e51#part_of": {
+        "@id": "_:n847",
+        "@type": "doi:4b99260369df9110f9bd",
+        "doi:4b99260369df9110f9bd#has_support_url": "https://doi.org/10.32614/CRAN.package.dplyr",
+        "doi:4b99260369df9110f9bd#part_of": {
+          "@id": "_:n848",
+          "@type": "doi:c981d125d1a564c9f573",
+          "doi:c981d125d1a564c9f573#has_support_url": "https://www.r-project.org",
+          "doi:c981d125d1a564c9f573#version_info": "4.3.2",
+          "doi:c981d125d1a564c9f573#label": "R"
+        },
+        "doi:4b99260369df9110f9bd#version_info": "1.1.4",
+        "doi:4b99260369df9110f9bd#label": "dplyr"
+      },
+      "doi:abef9f1c0d48853f3e51#label": "summarise"
+    },
+    "doi:5b66cb584b974b186f37#label": "Descriptive statistics for relative proportion of organic carbon in different soil fractions in percentage of fallow level."
+  },
+  "@context": {
+    "doi": "https://doi.org/21.T11969/",
+    "columns": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#columns",
+    "col_number": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#number",
+    "col_titles": "https://doi.org/21.T11969/65ba00e95e60fb8971e6#titles",
+    "rows": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#rows",
+    "row_number": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#number",
+    "row_titles": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#titles",
+    "cells": "https://doi.org/21.T11969/9bf7a8e8909bfd491b38#cells",
+    "column": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#column",
+    "value": "https://doi.org/21.T11969/4607bc7c42ac8db29bfc#value",
+    "tab_label": "https://doi.org/21.T11969/0424f6e7026fa4bc2c4a#label"
+  }
+}

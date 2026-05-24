@@ -1,0 +1,44 @@
+{
+  "8zst8ean": {
+    "label": "The variability of organic carbon distribution within soil aggregates is quite large between cover crop treatments.",
+    "json_file_name": "xjfvg9j9.json",
+    "unit_idx": null,
+    "handle": "5b66cb584b974b186f37",
+    "snippet": "figure-1-snippet.r"
+  },
+  "2wcbno33": {
+    "label": "When focusing on individual soil horizons, pairwise comparison indicates significantly higher mean weight diameter (MWD) compared to the fallow treatment for clover at 0-10 cm (18.8% higher, p=0.017), Mix12 at 20-30 cm (37.6% higher, p=0.049), and phacelia (17.0% higher, p=0.018) and Mix4 (12.8% higher, p=0.037) at 30-40 cm.",
+    "json_file_name": "jbxhedpm.json",
+    "unit_idx": null,
+    "handle": "b9335ce2c99ed87735a6",
+    "snippet": "figure-2a-snippet.R"
+  },
+  "4rckdz4u": {
+    "label": "Mean weight diameter (MWD) of soil aggregates increases with soil depth and is significantly higher in the cover crop (CC) treatments than in the fallow treatment.",
+    "json_file_name": "qg99my97.json",
+    "unit_idx": null,
+    "handle": "c6b413ba96ba477b5dca",
+    "snippet": "figure-2b-snippet.R"
+  },
+  "ct0dj54b": {
+    "label": "Mean weight diameter (MWD) of soil aggregates has the highest impact on aggregate organic carbon (OC) distribution, followed by soil parameters and cover crop (CC) type.",
+    "json_file_name": "mtmeqc85.json",
+    "unit_idx": null,
+    "handle": "437807f8d1a81b5138a3",
+    "snippet": "figure-3-snippet.R"
+  },
+  "8awstpnz": {
+    "label": "Cover crops (CCs) increase the mean weight diameter (MWD) from 10% for oat and up to 19% for Mix12 compared to fallow.",
+    "json_file_name": "oylom6ef.json",
+    "unit_idx": null,
+    "handle": "c6b413ba96ba477b5dca",
+    "snippet": "table-1-snippet-1.R"
+  },
+  "1wyiidr1": {
+    "label": "Cover crop (CC) mixtures show a higher mean weight diameter (MWD) increase (16%) than single species (12%).",
+    "json_file_name": "9yu8v4sg.json",
+    "unit_idx": null,
+    "handle": "c6b413ba96ba477b5dca",
+    "snippet": "table-2-snippet-1.R"
+  }
+}

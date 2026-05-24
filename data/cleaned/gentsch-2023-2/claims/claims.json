@@ -1,0 +1,80 @@
+{
+  "8zst8ean": {
+    "json_file_name": "figure-1.json",
+    "label": "The variability of organic carbon distribution within soil aggregates is quite large between cover crop treatments.",
+    "source_code_file_name": "figure-1-snippet.r",
+    "gold": {
+      "jsonld_file": "xjfvg9j9.json",
+      "jsonld_unit_idx": 0,
+      "handle": "5b66cb584b974b186f37",
+      "handle_label": "Descriptive Statistics",
+      "is_implemented_by_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/cbc1f14e-e793-4f45-b5e5-8c80254860e5/download/hars7q2a.r",
+      "dtreg_code_file": "01-figure-1.R"
+    }
+  },
+  "2wcbno33": {
+    "json_file_name": "figure-2a.json",
+    "label": "When focusing on individual soil horizons, pairwise comparison indicates significantly higher mean weight diameter (MWD) compared to the fallow treatment for clover at 0-10 cm (18.8% higher, p=0.017), Mix12 at 20-30 cm (37.6% higher, p=0.049), and phacelia (17.0% higher, p=0.018) and Mix4 (12.8% higher, p=0.037) at 30-40 cm.",
+    "source_code_file_name": "figure-2a-snippet.R",
+    "gold": {
+      "jsonld_file": "jbxhedpm.json",
+      "jsonld_unit_idx": 0,
+      "handle": "b9335ce2c99ed87735a6",
+      "handle_label": "Group Comparison",
+      "is_implemented_by_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/fbf1d220-fbe0-4410-a4ec-c9ca2aab0ac1/download/7z4b6qdt.r",
+      "dtreg_code_file": "01-figure-2a.R"
+    }
+  },
+  "4rckdz4u": {
+    "json_file_name": "figure-2b.json",
+    "label": "Mean weight diameter (MWD) of soil aggregates increases with soil depth and is significantly higher in the cover crop (CC) treatments than in the fallow treatment.",
+    "source_code_file_name": "figure-2b-snippet.R",
+    "gold": {
+      "jsonld_file": "qg99my97.json",
+      "jsonld_unit_idx": 0,
+      "handle": "c6b413ba96ba477b5dca",
+      "handle_label": "Multilevel Analysis",
+      "is_implemented_by_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/2f2865cd-2f35-4427-af6e-65efdcdf9b3c/download/tgvb86fl.r",
+      "dtreg_code_file": "01-figure-2b.R"
+    }
+  },
+  "ct0dj54b": {
+    "json_file_name": "figure-3.json",
+    "label": "Mean weight diameter (MWD) of soil aggregates has the highest impact on aggregate organic carbon (OC) distribution, followed by soil parameters and cover crop (CC) type.",
+    "source_code_file_name": "figure-3-snippet.R",
+    "gold": {
+      "jsonld_file": "mtmeqc85.json",
+      "jsonld_unit_idx": 0,
+      "handle": "437807f8d1a81b5138a3",
+      "handle_label": "Factor Analysis",
+      "is_implemented_by_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/20b04cbd-0484-44ff-b2f3-2fee5466ee92/download/3wjwlawu.r",
+      "dtreg_code_file": "01-figure-3.R"
+    }
+  },
+  "8awstpnz": {
+    "json_file_name": "table-1.json",
+    "label": "Cover crops (CCs) increase the mean weight diameter (MWD) from 10% for oat and up to 19% for Mix12 compared to fallow.",
+    "source_code_file_name": "table-1-snippet-1.R",
+    "gold": {
+      "jsonld_file": "oylom6ef.json",
+      "jsonld_unit_idx": 0,
+      "handle": "c6b413ba96ba477b5dca",
+      "handle_label": "Multilevel Analysis",
+      "is_implemented_by_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/760f771f-ed77-47e6-b300-8900fe1bc419/download/p2rv5iyj.r",
+      "dtreg_code_file": "01-table-1.R"
+    }
+  },
+  "1wyiidr1": {
+    "json_file_name": "table-2.json",
+    "label": "Cover crop (CC) mixtures show a higher mean weight diameter (MWD) increase (16%) than single species (12%).",
+    "source_code_file_name": "table-2-snippet-1.R",
+    "gold": {
+      "jsonld_file": "9yu8v4sg.json",
+      "jsonld_unit_idx": 0,
+      "handle": "c6b413ba96ba477b5dca",
+      "handle_label": "Multilevel Analysis",
+      "is_implemented_by_url": "https://service.tib.eu/ldmservice/dataset/60540bb4-11f2-4dc9-893f-cc2523b9c4f9/resource/29a8ed04-2f9c-48ca-be67-56625c865e56/download/mzuizq9n.r",
+      "dtreg_code_file": "01-table-1.R"
+    }
+  }
+}
